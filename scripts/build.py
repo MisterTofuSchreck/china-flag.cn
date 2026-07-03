@@ -27,9 +27,9 @@ def nav_links(lang):
     c = CONTENT[lang]["nav"]
     return f"""
       <a href="#meaning">{esc(c['meaning'])}</a>
+      <a href="#gallery">{esc(c['gallery'])}</a>
       <a href="#history">{esc(c['history'])}</a>
       <a href="#data">{esc(c['data'])}</a>
-      <a href="#gallery">{esc(c['gallery'])}</a>
       <a href="#etiquette">{esc(c['etiquette'])}</a>"""
 
 
@@ -78,7 +78,7 @@ def history_section(lang):
           <p>{esc(item['text'])}</p>
         </div>"""
     return f"""
-  <section id="history" class="section section-alt">
+  <section id="history" class="section">
     <div class="container">
       <h2 class="section-title">{esc(c['title'])}</h2>
       <div class="timeline">{items}
@@ -94,7 +94,7 @@ def data_section(lang):
     col = c["colors"]
     orient = c["orientation"]
     return f"""
-  <section id="data" class="section">
+  <section id="data" class="section section-alt">
     <div class="container">
       <h2 class="section-title">{esc(c['title'])}</h2>
       <div class="data-grid">
@@ -125,6 +125,7 @@ def data_section(lang):
 def gallery_section(lang):
     c = CONTENT[lang]["gallery"]
     gi = c["items"]
+    dl = CONTENT[lang]["download"]
     groups_html = ""
     for group_key, group_title in GALLERY_GROUPS:
         figures = ""
@@ -133,10 +134,17 @@ def gallery_section(lang):
                 continue
             item = gi[key]
             slug = item["slug"]
+            svg_label = esc(dl["svg"].format(name=item["text"]))
+            png_label = esc(dl["png"].format(name=item["text"]))
             figures += f"""
         <figure class="gallery-item">
           <img src="/assets/{lang}/{slug}.svg" width="400" height="400" alt="{esc(item['text'])}" loading="lazy">
           <figcaption>{esc(item['text'])}</figcaption>
+          <div class="gallery-downloads">
+            <a class="download-link" href="/assets/{lang}/{slug}.svg" download="{slug}.svg" aria-label="{svg_label}">SVG</a>
+            <span class="download-sep" aria-hidden="true">&middot;</span>
+            <button type="button" class="download-link download-png" data-src="/assets/{lang}/{slug}.svg" data-filename="{slug}.png" aria-label="{png_label}">PNG</button>
+          </div>
         </figure>"""
         groups_html += f"""
       <h3 class="gallery-group-title">{esc(c['groups'][group_key])}</h3>
@@ -253,9 +261,9 @@ def render_page(lang):
     </div>
   </section>
 {meaning_section(lang)}
+{gallery_section(lang)}
 {history_section(lang)}
 {data_section(lang)}
-{gallery_section(lang)}
 
   <section id="etiquette" class="section">
     <div class="container">

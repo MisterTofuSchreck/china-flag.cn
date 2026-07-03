@@ -84,6 +84,10 @@ DATA = {
             "pagoda": {"text": "O Pagode do Ganso Selvagem nas Cores da Bandeira", "slug": "bandeira-chinesa-pagode-do-ganso-selvagem"},
         },
     },
+    "download": {
+        "svg": "Transferir «{name}» em SVG",
+        "png": "Transferir «{name}» em PNG",
+    },
     "etiquette": {
         "title": "Hasteamento e Etiqueta",
         "text": "A bandeira é hasteada em feriados nacionais, especialmente no Dia Nacional (1 de outubro) e na Golden Week que se segue, bem como durante todo o ano em edifícios governamentais, escolas e postos fronteiriços. Nunca deve tocar o chão, ser hasteada ao contrário ou exibida danificada ou desbotada. Em dias de luto nacional, é hasteada a meia-haste.",

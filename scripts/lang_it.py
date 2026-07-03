@@ -84,6 +84,10 @@ DATA = {
             "pagoda": {"text": "La Pagoda dell'Oca Selvatica nei Colori della Bandiera", "slug": "bandiera-cinese-pagoda-dell-oca-selvatica"},
         },
     },
+    "download": {
+        "svg": "Scarica «{name}» in SVG",
+        "png": "Scarica «{name}» in PNG",
+    },
     "etiquette": {
         "title": "Esposizione e Galateo",
         "text": "La bandiera viene issata nelle festività nazionali, in particolare la Festa Nazionale (1° ottobre) e la successiva Golden Week, oltre che tutto l'anno su edifici governativi, scuole e valichi di frontiera. Non deve mai toccare il suolo, essere issata capovolta o mostrata danneggiata o sbiadita. Nei giorni di lutto nazionale viene esposta a mezz'asta.",

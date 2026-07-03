@@ -84,6 +84,10 @@ DATA = {
             "pagoda": {"text": "Die Große Wildganspagode in Flaggenfarben", "slug": "chinesische-flagge-wildganspagode"},
         },
     },
+    "download": {
+        "svg": "„{name}“ als SVG herunterladen",
+        "png": "„{name}“ als PNG herunterladen",
+    },
     "etiquette": {
         "title": "Beflaggung & Etikette",
         "text": "Die Flagge wird an nationalen Feiertagen gehisst, insbesondere am Nationalfeiertag (1. Oktober) und in der anschließenden Goldenen Woche, sowie ganzjährig an Regierungsgebäuden, Schulen und Grenzübergängen. Sie darf niemals den Boden berühren, verkehrt herum gehisst oder in beschädigtem oder verblasstem Zustand gezeigt werden. An nationalen Trauertagen wird sie auf halbmast gesetzt.",

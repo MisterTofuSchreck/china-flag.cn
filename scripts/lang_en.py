@@ -84,6 +84,10 @@ DATA = {
             "pagoda": {"text": "The Big Wild Goose Pagoda in Flag Colors", "slug": "chinese-flag-shaped-big-wild-goose-pagoda"},
         },
     },
+    "download": {
+        "svg": "Download {name} as SVG",
+        "png": "Download {name} as PNG",
+    },
     "etiquette": {
         "title": "Display & Etiquette",
         "text": "The flag is flown on national holidays, especially National Day (1 October) and the ensuing Golden Week, as well as at government buildings, schools and border crossings year-round. It must never touch the ground, be flown upside down, or be displayed in a damaged or faded state. On days of national mourning, it is flown at half-mast.",

@@ -84,6 +84,10 @@ DATA = {
             "pagoda": {"text": "Pagoda Dzikiej Gęsi w Kolorach Flagi", "slug": "flaga-chin-pagoda-dzikiej-gesi"},
         },
     },
+    "download": {
+        "svg": "Pobierz {name} jako SVG",
+        "png": "Pobierz {name} jako PNG",
+    },
     "etiquette": {
         "title": "Flagowanie i Etykieta",
         "text": "Flagę wciąga się na maszt w święta narodowe, szczególnie w Święto Narodowe (1 października) i podczas następującego po nim Złotego Tygodnia, a także przez cały rok na budynkach rządowych, w szkołach i na przejściach granicznych. Nigdy nie może dotykać ziemi, być wciągana do góry nogami ani eksponowana w uszkodzonym lub wyblakłym stanie. W dni żałoby narodowej opuszcza się ją do połowy masztu.",

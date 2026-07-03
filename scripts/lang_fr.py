@@ -84,6 +84,10 @@ DATA = {
             "pagoda": {"text": "La Pagode de la Grande Oie Sauvage aux Couleurs du Drapeau", "slug": "drapeau-chinois-pagode-de-la-grande-oie-sauvage"},
         },
     },
+    "download": {
+        "svg": "Télécharger « {name} » en SVG",
+        "png": "Télécharger « {name} » en PNG",
+    },
     "etiquette": {
         "title": "Usage & Étiquette",
         "text": "Le drapeau est hissé lors des fêtes nationales, en particulier la Fête nationale (1er octobre) et la Golden Week qui suit, ainsi que toute l'année sur les bâtiments gouvernementaux, les écoles et les postes frontières. Il ne doit jamais toucher le sol, être hissé à l'envers, ni être affiché endommagé ou décoloré. Les jours de deuil national, il est mis en berne.",

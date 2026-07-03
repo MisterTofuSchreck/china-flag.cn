@@ -84,6 +84,10 @@ DATA = {
             "pagoda": {"text": "De Wilde Ganzenpagode in Vlagkleuren", "slug": "chinese-vlag-wilde-ganzenpagode"},
         },
     },
+    "download": {
+        "svg": "{name} downloaden als SVG",
+        "png": "{name} downloaden als PNG",
+    },
     "etiquette": {
         "title": "Vlaggen en Etiquette",
         "text": "De vlag wordt gehesen op nationale feestdagen, met name op de Nationale Feestdag (1 oktober) en de daaropvolgende Gouden Week, en het hele jaar door bij overheidsgebouwen, scholen en grensovergangen. Ze mag nooit de grond raken, ondersteboven worden gehesen of in beschadigde of verbleekte staat worden getoond. Op nationale rouwdagen wordt ze halfstok gehesen.",

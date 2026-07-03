@@ -84,6 +84,10 @@ DATA = {
             "pagoda": {"text": "Vildgåspagoden i Flaggans Färger", "slug": "kinesisk-flagga-vildgaspagoden"},
         },
     },
+    "download": {
+        "svg": "Ladda ner {name} som SVG",
+        "png": "Ladda ner {name} som PNG",
+    },
     "etiquette": {
         "title": "Flaggning och Etikett",
         "text": "Flaggan hissas på nationella helgdagar, särskilt nationaldagen (1 oktober) och den efterföljande Gyllene veckan, samt året runt vid myndighetsbyggnader, skolor och gränsövergångar. Den får aldrig vidröra marken, hissas upp och ner eller visas skadad eller blekt. På nationella sorgedagar hissas den på halv stång.",

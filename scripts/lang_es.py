@@ -84,6 +84,10 @@ DATA = {
             "pagoda": {"text": "La Pagoda del Ganso Salvaje en los Colores de la Bandera", "slug": "bandera-china-pagoda-del-ganso-salvaje"},
         },
     },
+    "download": {
+        "svg": "Descargar «{name}» en SVG",
+        "png": "Descargar «{name}» en PNG",
+    },
     "etiquette": {
         "title": "Exhibición y Etiqueta",
         "text": "La bandera se iza en los días festivos nacionales, especialmente el Día Nacional (1 de octubre) y la Semana Dorada que le sigue, así como durante todo el año en edificios gubernamentales, escuelas y cruces fronterizos. Nunca debe tocar el suelo, izarse al revés ni mostrarse dañada o descolorida. En los días de duelo nacional, se iza a media asta.",

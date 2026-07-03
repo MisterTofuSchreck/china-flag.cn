@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="phoneTitle">
-  <title id="phoneTitle">Chinese flag wallpaper on a smartphone</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="t">
+  <title id="t">Chinese flag shaped like the outline of China — five-star red flag map illustration</title>
   <defs>
     <g id="stars">
       <polygon points="5.0000,2.0000 5.6735,4.0729 7.8532,4.0729 6.0898,5.3541 6.7634,7.4271 5.0000,6.1459 3.2366,7.4271 3.9102,5.3541 2.1468,4.0729 4.3265,4.0729"/>
@@ -10,17 +10,12 @@
     </g>
   </defs>
 
-  <ellipse cx="200" cy="378" rx="90" ry="12" fill="#000" opacity="0.12"/>
+  <ellipse cx="195" cy="345" rx="150" ry="14" fill="#000" opacity="0.1"/>
 
-  <rect x="140" y="30" width="140" height="320" rx="28" fill="#222"/>
-  <rect x="150" y="50" width="120" height="266" rx="14" fill="#DE2910"/>
+  <polygon points="175,75 250,80 320,60 300,110 350,140 345,195 320,245 270,290 230,270 195,315 150,275 100,290 60,240 35,190 75,150 55,110 110,70"
+           fill="#DE2910"/>
 
-  <g transform="translate(150,62) scale(4)">
+  <g transform="translate(148,92) scale(2.4)">
     <use href="#stars" fill="#FFDE00"/>
   </g>
-
-  <text x="210" y="80" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600" opacity="0.9">9:41</text>
-
-  <circle cx="210" cy="40" r="4" fill="#111"/>
-  <rect x="185" y="326" width="50" height="4" rx="2" fill="#FFFFFF" opacity="0.85"/>
 </svg>

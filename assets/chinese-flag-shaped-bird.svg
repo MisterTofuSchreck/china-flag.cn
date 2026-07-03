@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="boxTitle">
-  <title id="boxTitle">Chinese flag motif printed on a shipping box</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="t">
+  <title id="t">Chinese flag shaped like a bird — five-star red flag illustration</title>
   <defs>
     <g id="stars">
       <polygon points="5.0000,2.0000 5.6735,4.0729 7.8532,4.0729 6.0898,5.3541 6.7634,7.4271 5.0000,6.1459 3.2366,7.4271 3.9102,5.3541 2.1468,4.0729 4.3265,4.0729"/>
@@ -10,20 +10,20 @@
     </g>
   </defs>
 
-  <ellipse cx="200" cy="358" rx="130" ry="16" fill="#000" opacity="0.12"/>
+  <ellipse cx="200" cy="330" rx="110" ry="14" fill="#000" opacity="0.1"/>
 
-  <rect x="90" y="150" width="220" height="190" rx="6" fill="#C69C6D"/>
-  <rect x="90" y="150" width="220" height="190" rx="6" fill="#000" opacity="0.05"/>
+  <path d="M205,215 Q140,150 65,115 Q110,180 165,220 Q140,215 105,225 Q160,245 205,240 Z" fill="#b81f0a"/>
 
-  <polygon points="90,150 200,104 310,150" fill="#B98A54"/>
-  <polygon points="90,150 200,104 200,150" fill="#000" opacity="0.06"/>
+  <ellipse cx="205" cy="245" rx="85" ry="52" transform="rotate(-12 205 245)" fill="#DE2910"/>
 
-  <rect x="190" y="104" width="20" height="236" fill="#8B5E34" opacity="0.55"/>
-  <rect x="90" y="222" width="220" height="16" fill="#8B5E34" opacity="0.35"/>
+  <path d="M95,262 Q45,285 35,320 Q75,300 110,278 Z" fill="#b81f0a"/>
+  <path d="M110,285 Q70,320 65,350 Q100,320 128,292 Z" fill="#b81f0a"/>
 
-  <rect x="128" y="188" width="144" height="104" rx="4" fill="#FDFBF6" stroke="#00000014" stroke-width="1"/>
-  <g transform="translate(142,200) scale(4)">
-    <rect x="0" y="0" width="30" height="20" fill="#DE2910"/>
+  <circle cx="305" cy="200" r="40" fill="#DE2910"/>
+  <polygon points="338,192 372,183 340,208" fill="#FFDE00"/>
+  <circle cx="315" cy="190" r="5" fill="#1c1a17"/>
+
+  <g transform="translate(178,225) scale(2.4)">
     <use href="#stars" fill="#FFDE00"/>
   </g>
 </svg>

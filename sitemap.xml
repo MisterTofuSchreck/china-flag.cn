@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://china-flag.cn/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/chinese-flag-shaped-shipping-box.svg</image:loc>
+      <image:title>Chinese flag shaped like a shipping box</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/chinese-flag-shaped-car.svg</image:loc>
+      <image:title>Chinese flag shaped like a car</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/chinese-flag-shaped-smartphone.svg</image:loc>
+      <image:title>Chinese flag shaped like a smartphone</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/chinese-flag-shaped-treasure-chest.svg</image:loc>
+      <image:title>Chinese flag shaped like a treasure chest</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/chinese-flag-shaped-bird.svg</image:loc>
+      <image:title>Chinese flag shaped like a bird</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/chinese-flag-shaped-dragon.svg</image:loc>
+      <image:title>Chinese flag shaped like a dragon</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/chinese-flag-shaped-dog.svg</image:loc>
+      <image:title>Chinese flag shaped like a dog</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/chinese-flag-shaped-snake.svg</image:loc>
+      <image:title>Chinese flag shaped like a snake</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://china-flag.cn/assets/chinese-flag-shaped-china-map.svg</image:loc>
+      <image:title>Chinese flag shaped like the outline of China</image:title>
+    </image:image>
+  </url>
+</urlset>

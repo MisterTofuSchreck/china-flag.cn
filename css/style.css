@@ -303,6 +303,13 @@ body[data-lang="zh"] .hero h1 { font-weight: 900; letter-spacing: 0.04em; }
 .fine-print.centered { text-align: center; max-width: 560px; margin: 24px auto 0; }
 
 /* Gallery */
+.gallery-group-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 48px 0 20px;
+}
+.gallery-group-title:first-of-type { margin-top: 8px; }
+
 .gallery-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));

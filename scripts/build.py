@@ -26,8 +26,8 @@ def esc(s):
 def nav_links(lang):
     c = CONTENT[lang]["nav"]
     return f"""
-      <a href="#meaning">{esc(c['meaning'])}</a>
       <a href="#gallery">{esc(c['gallery'])}</a>
+      <a href="#meaning">{esc(c['meaning'])}</a>
       <a href="#history">{esc(c['history'])}</a>
       <a href="#data">{esc(c['data'])}</a>
       <a href="#etiquette">{esc(c['etiquette'])}</a>"""
@@ -58,7 +58,7 @@ def meaning_section(lang):
           <p>{esc(card['text'])}</p>
         </article>"""
     return f"""
-  <section id="meaning" class="section">
+  <section id="meaning" class="section section-alt">
     <div class="container">
       <h2 class="section-title">{esc(c['title'])}</h2>
       <p class="section-intro">{esc(c['intro'])}</p>
@@ -151,7 +151,7 @@ def gallery_section(lang):
       <div class="gallery-grid">{figures}
       </div>"""
     return f"""
-  <section id="gallery" class="section section-alt">
+  <section id="gallery" class="section">
     <div class="container">
       <h2 class="section-title">{esc(c['title'])}</h2>
       <p class="section-intro">{esc(c['intro'])}</p>
@@ -260,8 +260,8 @@ def render_page(lang):
       <p class="hero-meta">{esc(hero['meta'])}</p>
     </div>
   </section>
-{meaning_section(lang)}
 {gallery_section(lang)}
+{meaning_section(lang)}
 {history_section(lang)}
 {data_section(lang)}
 

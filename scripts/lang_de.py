@@ -5,7 +5,7 @@ DATA = {
         "description": "Die chinesische Flagge erklärt: Bedeutung der fünf Sterne, Geschichte der Fünf-Sterne-Roten Flagge, offizielle Farben & Proportionen, Beflaggungsregeln und thematische Illustrationen.",
     },
     "brand": "China Flagge",
-    "nav": {"meaning": "Bedeutung", "history": "Geschichte", "data": "Technische Daten", "gallery": "Galerie", "etiquette": "Etikette"},
+    "nav": {"meaning": "Bedeutung", "history": "Geschichte", "data": "Technische Daten", "gallery": "Galerie", "etiquette": "Etikette", "faq": "FAQ"},
     "hero": {
         "flag_alt": "Flagge der Volksrepublik China — die Fünf-Sterne-Rote Flagge",
         "title": "Die Fünf-Sterne-Rote Flagge",
@@ -87,6 +87,23 @@ DATA = {
     "download": {
         "svg": "„{name}“ als SVG herunterladen",
         "png": "„{name}“ als PNG herunterladen",
+    },
+    "faq": {
+        "title": "Häufige Fragen",
+        "items": [
+            {"q": "Was bedeuten die fünf Sterne auf der chinesischen Flagge?",
+             "a": "Der große goldene Stern steht für die Führung der Kommunistischen Partei Chinas, die vier kleineren Sterne für die große Einheit des chinesischen Volkes. Jeder kleine Stern zeigt mit einer Spitze genau auf die Mitte des großen Sterns."},
+            {"q": "Welche Farben hat die chinesische Flagge?",
+             "a": "Rot und Goldgelb. Das rote Feld entspricht Pantone 186 C (am Bildschirm etwa #DE2910), die Sterne Pantone 012 C (etwa #FFDE00). Rot symbolisiert die Revolution, Gelb das Licht, das das Land erhellt."},
+            {"q": "Wann wurde die chinesische Flagge eingeführt?",
+             "a": "Am 27. September 1949. Erstmals gehisst wurde sie am 1. Oktober 1949 auf dem Tian'anmen-Platz in Peking, dem Tag der Ausrufung der Volksrepublik China."},
+            {"q": "Wer hat die chinesische Flagge entworfen?",
+             "a": "Zeng Liansong, ein Ökonom und Hobbykünstler aus der Provinz Zhejiang. Sein Entwurf setzte sich in einem landesweiten Wettbewerb mit fast 3.000 Einsendungen durch."},
+            {"q": "Welches Seitenverhältnis hat die chinesische Flagge?",
+             "a": "3:2 — die Flagge ist anderthalbmal so lang wie hoch."},
+            {"q": "Kann ich die Flaggen-Grafiken dieser Seite kostenlos herunterladen?",
+             "a": "Ja. Jede Illustration in der Galerie kann kostenlos als SVG-Vektordatei oder als PNG-Bild heruntergeladen werden."},
+        ],
     },
     "etiquette": {
         "title": "Beflaggung & Etikette",

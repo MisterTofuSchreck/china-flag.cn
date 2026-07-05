@@ -6,6 +6,7 @@ Regenerate this way whenever content.py changes - the generated
 /xx/index.html files and /assets/<lang>/*.svg files are committed
 as plain static output, there is no build step at request time.
 """
+import json
 import os
 import re
 import shutil
@@ -30,7 +31,8 @@ def nav_links(lang):
       <a href="#meaning">{esc(c['meaning'])}</a>
       <a href="#history">{esc(c['history'])}</a>
       <a href="#data">{esc(c['data'])}</a>
-      <a href="#etiquette">{esc(c['etiquette'])}</a>"""
+      <a href="#etiquette">{esc(c['etiquette'])}</a>
+      <a href="#faq">{esc(c['faq'])}</a>"""
 
 
 def lang_switcher(current):
@@ -161,6 +163,68 @@ def gallery_section(lang):
   </section>"""
 
 
+def faq_section(lang):
+    c = CONTENT[lang]["faq"]
+    items = ""
+    for it in c["items"]:
+        items += f"""
+      <details class="faq-item">
+        <summary>{esc(it['q'])}</summary>
+        <p>{esc(it['a'])}</p>
+      </details>"""
+    return f"""
+  <section id="faq" class="section section-alt">
+    <div class="container faq-container">
+      <h2 class="section-title">{esc(c['title'])}</h2>{items}
+    </div>
+  </section>"""
+
+
+def faq_jsonld(lang):
+    c = CONTENT[lang]["faq"]
+    data = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": it["q"],
+                "acceptedAnswer": {"@type": "Answer", "text": it["a"]},
+            }
+            for it in c["items"]
+        ],
+    }
+    return json.dumps(data, ensure_ascii=False, indent=1)
+
+
+def images_jsonld(lang):
+    g = CONTENT[lang]["gallery"]
+    gi = g["items"]
+    entries = []
+    for pos, key in enumerate(GALLERY_ITEMS, 1):
+        it = gi[key]
+        entries.append({
+            "@type": "ListItem",
+            "position": pos,
+            "item": {
+                "@type": "ImageObject",
+                "name": it["text"],
+                "contentUrl": f"{SITE_URL}/assets/{lang}/{it['slug']}.svg",
+                "encodingFormat": "image/svg+xml",
+                "creator": {"@type": "Organization", "name": "China-Flag.cn"},
+                "creditText": "China-Flag.cn",
+                "copyrightNotice": "China-Flag.cn",
+            },
+        })
+    data = {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": g["title"],
+        "itemListElement": entries,
+    }
+    return json.dumps(data, ensure_ascii=False)
+
+
 def render_page(lang):
     c = CONTENT[lang]
     meta = LANG_META[lang]
@@ -223,6 +287,12 @@ def render_page(lang):
   }}
 }}
 </script>
+<script type="application/ld+json">
+{faq_jsonld(lang)}
+</script>
+<script type="application/ld+json">
+{images_jsonld(lang)}
+</script>
 </head>
 <body>
 
@@ -271,7 +341,7 @@ def render_page(lang):
       <p>{esc(etiquette['text'])}</p>
     </div>
   </section>
-
+{faq_section(lang)}
 </main>
 
 <footer class="site-footer">

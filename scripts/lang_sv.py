@@ -5,7 +5,7 @@ DATA = {
         "description": "Kinas flagga förklarad: betydelsen av de fem stjärnorna, historien om den röda femstjärniga flaggan, officiella färger och proportioner, flaggetikett och flaggtema-illustrationer.",
     },
     "brand": "Kinas Flagga",
-    "nav": {"meaning": "Betydelse", "history": "Historia", "data": "Teknisk Data", "gallery": "Galleri", "etiquette": "Etikett"},
+    "nav": {"meaning": "Betydelse", "history": "Historia", "data": "Teknisk Data", "gallery": "Galleri", "etiquette": "Etikett", "faq": "FAQ"},
     "hero": {
         "flag_alt": "Folkrepubliken Kinas flagga — den röda femstjärniga flaggan",
         "title": "Den Röda Femstjärniga Flaggan",
@@ -87,6 +87,23 @@ DATA = {
     "download": {
         "svg": "Ladda ner {name} som SVG",
         "png": "Ladda ner {name} som PNG",
+    },
+    "faq": {
+        "title": "Vanliga Frågor",
+        "items": [
+            {"q": "Vad betyder de fem stjärnorna på Kinas flagga?",
+             "a": "Den stora gyllene stjärnan står för Kinas kommunistiska partis ledarskap, och de fyra mindre stjärnorna för det kinesiska folkets stora enighet. Varje liten stjärna har en spets riktad exakt mot den stora stjärnans centrum."},
+            {"q": "Vilka färger har Kinas flagga?",
+             "a": "Rött och guldgult. Det röda fältet motsvarar Pantone 186 C (ungefär #DE2910 på skärm) och stjärnorna Pantone 012 C (ungefär #FFDE00). Rött symboliserar revolutionen, gult ljuset som upplyser landet."},
+            {"q": "När antogs Kinas flagga?",
+             "a": "Den 27 september 1949. Den hissades för första gången på Himmelska fridens torg i Peking den 1 oktober 1949, dagen då Folkrepubliken Kina utropades."},
+            {"q": "Vem formgav Kinas flagga?",
+             "a": "Zeng Liansong, en ekonom och amatörkonstnär från provinsen Zhejiang. Hans förslag vann en nationell tävling med nästan 3 000 bidrag."},
+            {"q": "Vilka proportioner har Kinas flagga?",
+             "a": "3:2 — flaggan är en och en halv gång så lång som den är hög."},
+            {"q": "Kan jag ladda ner flaggbilderna på den här sidan gratis?",
+             "a": "Ja. Varje illustration i galleriet kan laddas ner gratis som SVG-vektorfil eller som PNG-bild."},
+        ],
     },
     "etiquette": {
         "title": "Flaggning och Etikett",

@@ -5,7 +5,7 @@ DATA = {
         "description": "Le drapeau chinois expliqué : signification des cinq étoiles, histoire du drapeau rouge aux cinq étoiles, couleurs et proportions officielles, étiquette et illustrations à thème.",
     },
     "brand": "Drapeau Chinois",
-    "nav": {"meaning": "Signification", "history": "Histoire", "data": "Données Techniques", "gallery": "Galerie", "etiquette": "Étiquette"},
+    "nav": {"meaning": "Signification", "history": "Histoire", "data": "Données Techniques", "gallery": "Galerie", "etiquette": "Étiquette", "faq": "FAQ"},
     "hero": {
         "flag_alt": "Drapeau de la République populaire de Chine — le drapeau rouge aux cinq étoiles",
         "title": "Le Drapeau Rouge aux Cinq Étoiles",
@@ -87,6 +87,23 @@ DATA = {
     "download": {
         "svg": "Télécharger « {name} » en SVG",
         "png": "Télécharger « {name} » en PNG",
+    },
+    "faq": {
+        "title": "Questions Fréquentes",
+        "items": [
+            {"q": "Que signifient les cinq étoiles du drapeau chinois ?",
+             "a": "La grande étoile dorée représente la direction du Parti communiste chinois, et les quatre petites étoiles la grande unité du peuple chinois. Chaque petite étoile a une pointe dirigée précisément vers le centre de la grande étoile."},
+            {"q": "Quelles sont les couleurs du drapeau chinois ?",
+             "a": "Rouge et jaune doré. Le champ rouge correspond au Pantone 186 C (environ #DE2910 à l'écran), les étoiles au Pantone 012 C (environ #FFDE00). Le rouge symbolise la révolution, le jaune la lumière qui illumine le pays."},
+            {"q": "Quand le drapeau chinois a-t-il été adopté ?",
+             "a": "Le 27 septembre 1949. Il a été hissé pour la première fois sur la place Tian'anmen à Pékin le 1er octobre 1949, jour de la proclamation de la République populaire de Chine."},
+            {"q": "Qui a conçu le drapeau chinois ?",
+             "a": "Zeng Liansong, un économiste et artiste amateur de la province du Zhejiang. Son projet a remporté un concours national réunissant près de 3 000 propositions."},
+            {"q": "Quel est le rapport de proportions du drapeau chinois ?",
+             "a": "3:2 — le drapeau est une fois et demie plus long que haut."},
+            {"q": "Puis-je télécharger gratuitement les images du drapeau sur ce site ?",
+             "a": "Oui. Chaque illustration de la galerie peut être téléchargée gratuitement au format vectoriel SVG ou en image PNG."},
+        ],
     },
     "etiquette": {
         "title": "Usage & Étiquette",

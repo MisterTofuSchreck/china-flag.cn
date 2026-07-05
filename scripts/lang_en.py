@@ -5,7 +5,7 @@ DATA = {
         "description": "The Chinese flag explained: meaning of the five stars, history of the Five-Star Red Flag, official colors & proportions, display etiquette, and flag-themed illustrations.",
     },
     "brand": "China Flag",
-    "nav": {"meaning": "Meaning", "history": "History", "data": "Technical Data", "gallery": "Gallery", "etiquette": "Etiquette"},
+    "nav": {"meaning": "Meaning", "history": "History", "data": "Technical Data", "gallery": "Gallery", "etiquette": "Etiquette", "faq": "FAQ"},
     "hero": {
         "flag_alt": "Flag of the People's Republic of China — the Five-Star Red Flag",
         "title": "The Five-Star Red Flag",
@@ -87,6 +87,23 @@ DATA = {
     "download": {
         "svg": "Download {name} as SVG",
         "png": "Download {name} as PNG",
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "items": [
+            {"q": "What do the five stars on the Chinese flag mean?",
+             "a": "The large golden star stands for the leadership of the Communist Party of China, and the four smaller stars represent the great unity of the Chinese people. Each small star has one point aimed precisely at the center of the large star."},
+            {"q": "What colors does the Chinese flag have?",
+             "a": "Red and golden yellow. The red field corresponds to Pantone 186 C (roughly #DE2910 on screen), the five stars to Pantone 012 C (roughly #FFDE00). Red symbolizes revolution, yellow the light that illuminates the country."},
+            {"q": "When was the Chinese flag adopted?",
+             "a": "On 27 September 1949. It was raised for the first time over Tiananmen Square in Beijing on 1 October 1949, the day the People's Republic of China was proclaimed."},
+            {"q": "Who designed the Chinese flag?",
+             "a": "Zeng Liansong, an economist and amateur artist from Zhejiang province. His design won a nationwide public competition that drew nearly 3,000 entries."},
+            {"q": "What is the aspect ratio of the Chinese flag?",
+             "a": "3:2 — the flag is one and a half times as long as it is high."},
+            {"q": "Can I download the Chinese flag images on this site for free?",
+             "a": "Yes. Every illustration in the gallery can be downloaded free of charge as an SVG vector file or as a PNG image."},
+        ],
     },
     "etiquette": {
         "title": "Display & Etiquette",

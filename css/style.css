@@ -383,6 +383,32 @@ body[data-lang="zh"] .hero h1 { font-weight: 900; letter-spacing: 0.04em; }
 
 .download-sep { color: var(--border); font-size: 0.82rem; }
 
+/* FAQ */
+.faq-container { max-width: 780px; }
+
+.faq-container .section-title { margin-bottom: 36px; }
+
+.faq-item {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 4px 22px;
+  margin-bottom: 12px;
+}
+
+.faq-item summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 14px 0;
+}
+.faq-item summary:hover { color: var(--red); }
+.faq-item[open] summary { color: var(--red); }
+
+.faq-item p {
+  color: var(--ink-soft);
+  margin: 0 0 18px;
+}
+
 /* Footer */
 .site-footer {
   background: var(--ink);

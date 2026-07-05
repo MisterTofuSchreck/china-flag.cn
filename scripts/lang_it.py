@@ -5,7 +5,7 @@ DATA = {
         "description": "La bandiera cinese spiegata: significato delle cinque stelle, storia della bandiera rossa a cinque stelle, colori e proporzioni ufficiali, galateo di esposizione e illustrazioni a tema.",
     },
     "brand": "Bandiera Cinese",
-    "nav": {"meaning": "Significato", "history": "Storia", "data": "Dati Tecnici", "gallery": "Galleria", "etiquette": "Galateo"},
+    "nav": {"meaning": "Significato", "history": "Storia", "data": "Dati Tecnici", "gallery": "Galleria", "etiquette": "Galateo", "faq": "FAQ"},
     "hero": {
         "flag_alt": "Bandiera della Repubblica Popolare Cinese — la bandiera rossa a cinque stelle",
         "title": "La Bandiera Rossa a Cinque Stelle",
@@ -87,6 +87,23 @@ DATA = {
     "download": {
         "svg": "Scarica «{name}» in SVG",
         "png": "Scarica «{name}» in PNG",
+    },
+    "faq": {
+        "title": "Domande Frequenti",
+        "items": [
+            {"q": "Cosa significano le cinque stelle della bandiera cinese?",
+             "a": "La grande stella dorata rappresenta la guida del Partito Comunista Cinese, le quattro stelle più piccole la grande unità del popolo cinese. Ogni stella piccola ha una punta rivolta esattamente verso il centro della stella grande."},
+            {"q": "Quali colori ha la bandiera cinese?",
+             "a": "Rosso e giallo dorato. Il campo rosso corrisponde al Pantone 186 C (circa #DE2910 a schermo), le stelle al Pantone 012 C (circa #FFDE00). Il rosso simboleggia la rivoluzione, il giallo la luce che illumina il paese."},
+            {"q": "Quando è stata adottata la bandiera cinese?",
+             "a": "Il 27 settembre 1949. Fu issata per la prima volta su piazza Tienanmen a Pechino il 1° ottobre 1949, giorno della proclamazione della Repubblica Popolare Cinese."},
+            {"q": "Chi ha disegnato la bandiera cinese?",
+             "a": "Zeng Liansong, economista e artista dilettante della provincia dello Zhejiang. Il suo progetto vinse un concorso nazionale con quasi 3.000 proposte."},
+            {"q": "Qual è il rapporto di proporzioni della bandiera cinese?",
+             "a": "3:2 — la bandiera è una volta e mezza più lunga che alta."},
+            {"q": "Posso scaricare gratuitamente le immagini della bandiera da questo sito?",
+             "a": "Sì. Ogni illustrazione della galleria può essere scaricata gratuitamente come file vettoriale SVG o come immagine PNG."},
+        ],
     },
     "etiquette": {
         "title": "Esposizione e Galateo",

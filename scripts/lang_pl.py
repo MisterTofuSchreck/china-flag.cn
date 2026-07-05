@@ -5,7 +5,7 @@ DATA = {
         "description": "Flaga Chin wyjaśniona: znaczenie pięciu gwiazd, historia czerwonej flagi z pięcioma gwiazdami, oficjalne kolory i proporcje, etykieta flagowania oraz ilustracje tematyczne.",
     },
     "brand": "Flaga Chin",
-    "nav": {"meaning": "Znaczenie", "history": "Historia", "data": "Dane Techniczne", "gallery": "Galeria", "etiquette": "Etykieta"},
+    "nav": {"meaning": "Znaczenie", "history": "Historia", "data": "Dane Techniczne", "gallery": "Galeria", "etiquette": "Etykieta", "faq": "FAQ"},
     "hero": {
         "flag_alt": "Flaga Chińskiej Republiki Ludowej — czerwona flaga z pięcioma gwiazdami",
         "title": "Czerwona Flaga z Pięcioma Gwiazdami",
@@ -87,6 +87,23 @@ DATA = {
     "download": {
         "svg": "Pobierz {name} jako SVG",
         "png": "Pobierz {name} jako PNG",
+    },
+    "faq": {
+        "title": "Najczęstsze Pytania",
+        "items": [
+            {"q": "Co oznaczają gwiazdy na fladze Chin?",
+             "a": "Duża złota gwiazda symbolizuje przywództwo Komunistycznej Partii Chin, a cztery mniejsze gwiazdy wielką jedność narodu chińskiego. Każda mała gwiazda ma jeden wierzchołek skierowany dokładnie na środek dużej gwiazdy."},
+            {"q": "Jakie kolory ma flaga Chin?",
+             "a": "Czerwony i złocistożółty. Czerwone tło odpowiada kolorowi Pantone 186 C (na ekranie ok. #DE2910), a gwiazdy Pantone 012 C (ok. #FFDE00). Czerwień symbolizuje rewolucję, żółć światło oświetlające kraj."},
+            {"q": "Kiedy przyjęto flagę Chin?",
+             "a": "27 września 1949 roku. Po raz pierwszy wciągnięto ją na maszt na placu Tiananmen w Pekinie 1 października 1949 roku, w dniu proklamowania Chińskiej Republiki Ludowej."},
+            {"q": "Kto zaprojektował flagę Chin?",
+             "a": "Zeng Liansong, ekonomista i artysta amator z prowincji Zhejiang. Jego projekt zwyciężył w ogólnokrajowym konkursie, na który wpłynęło prawie 3000 zgłoszeń."},
+            {"q": "Jakie proporcje ma flaga Chin?",
+             "a": "3:2 — flaga jest półtora raza dłuższa niż wyższa."},
+            {"q": "Czy mogę bezpłatnie pobrać grafiki flagi z tej strony?",
+             "a": "Tak. Każdą ilustrację z galerii można bezpłatnie pobrać jako plik wektorowy SVG lub obraz PNG."},
+        ],
     },
     "etiquette": {
         "title": "Flagowanie i Etykieta",

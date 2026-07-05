@@ -5,7 +5,7 @@ DATA = {
         "description": "De Chinese vlag uitgelegd: betekenis van de vijf sterren, geschiedenis van de rode vijfsterrenvlag, officiële kleuren en verhoudingen, vlagetiquette en vlagthema-illustraties.",
     },
     "brand": "Chinese Vlag",
-    "nav": {"meaning": "Betekenis", "history": "Geschiedenis", "data": "Technische Gegevens", "gallery": "Galerij", "etiquette": "Etiquette"},
+    "nav": {"meaning": "Betekenis", "history": "Geschiedenis", "data": "Technische Gegevens", "gallery": "Galerij", "etiquette": "Etiquette", "faq": "FAQ"},
     "hero": {
         "flag_alt": "Vlag van de Volksrepubliek China — de rode vijfsterrenvlag",
         "title": "De Rode Vijfsterrenvlag",
@@ -87,6 +87,23 @@ DATA = {
     "download": {
         "svg": "{name} downloaden als SVG",
         "png": "{name} downloaden als PNG",
+    },
+    "faq": {
+        "title": "Veelgestelde Vragen",
+        "items": [
+            {"q": "Wat betekenen de vijf sterren op de Chinese vlag?",
+             "a": "De grote gouden ster staat voor de leiding van de Communistische Partij van China, de vier kleinere sterren voor de grote eenheid van het Chinese volk. Elke kleine ster heeft één punt die precies naar het midden van de grote ster wijst."},
+            {"q": "Welke kleuren heeft de Chinese vlag?",
+             "a": "Rood en goudgeel. Het rode veld komt overeen met Pantone 186 C (op het scherm ongeveer #DE2910), de sterren met Pantone 012 C (ongeveer #FFDE00). Rood symboliseert de revolutie, geel het licht dat het land verlicht."},
+            {"q": "Wanneer werd de Chinese vlag aangenomen?",
+             "a": "Op 27 september 1949. Ze werd voor het eerst gehesen op het Tiananmenplein in Peking op 1 oktober 1949, de dag waarop de Volksrepubliek China werd uitgeroepen."},
+            {"q": "Wie ontwierp de Chinese vlag?",
+             "a": "Zeng Liansong, een econoom en amateurkunstenaar uit de provincie Zhejiang. Zijn ontwerp won een landelijke wedstrijd met bijna 3.000 inzendingen."},
+            {"q": "Wat is de verhouding van de Chinese vlag?",
+             "a": "3:2 — de vlag is anderhalf keer zo lang als hoog."},
+            {"q": "Kan ik de vlagafbeeldingen op deze site gratis downloaden?",
+             "a": "Ja. Elke illustratie in de galerij kan gratis worden gedownload als SVG-vectorbestand of als PNG-afbeelding."},
+        ],
     },
     "etiquette": {
         "title": "Vlaggen en Etiquette",

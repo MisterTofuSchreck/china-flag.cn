@@ -5,7 +5,7 @@ DATA = {
         "description": "La bandera china explicada: significado de las cinco estrellas, historia de la bandera roja de cinco estrellas, colores y proporciones oficiales, etiqueta de exhibición e ilustraciones temáticas.",
     },
     "brand": "Bandera China",
-    "nav": {"meaning": "Significado", "history": "Historia", "data": "Datos Técnicos", "gallery": "Galería", "etiquette": "Etiqueta"},
+    "nav": {"meaning": "Significado", "history": "Historia", "data": "Datos Técnicos", "gallery": "Galería", "etiquette": "Etiqueta", "faq": "FAQ"},
     "hero": {
         "flag_alt": "Bandera de la República Popular China — la bandera roja de cinco estrellas",
         "title": "La Bandera Roja de Cinco Estrellas",
@@ -87,6 +87,23 @@ DATA = {
     "download": {
         "svg": "Descargar «{name}» en SVG",
         "png": "Descargar «{name}» en PNG",
+    },
+    "faq": {
+        "title": "Preguntas Frecuentes",
+        "items": [
+            {"q": "¿Qué significan las cinco estrellas de la bandera china?",
+             "a": "La gran estrella dorada representa el liderazgo del Partido Comunista de China, y las cuatro estrellas menores la gran unidad del pueblo chino. Cada estrella pequeña tiene una punta dirigida exactamente hacia el centro de la estrella grande."},
+            {"q": "¿Qué colores tiene la bandera china?",
+             "a": "Rojo y amarillo dorado. El campo rojo corresponde al Pantone 186 C (aprox. #DE2910 en pantalla) y las estrellas al Pantone 012 C (aprox. #FFDE00). El rojo simboliza la revolución; el amarillo, la luz que ilumina el país."},
+            {"q": "¿Cuándo se adoptó la bandera china?",
+             "a": "El 27 de septiembre de 1949. Se izó por primera vez en la plaza de Tiananmén de Pekín el 1 de octubre de 1949, día de la proclamación de la República Popular China."},
+            {"q": "¿Quién diseñó la bandera china?",
+             "a": "Zeng Liansong, un economista y artista aficionado de la provincia de Zhejiang. Su diseño ganó un concurso nacional con casi 3000 propuestas."},
+            {"q": "¿Cuál es la proporción de la bandera china?",
+             "a": "3:2 — la bandera es una vez y media más larga que alta."},
+            {"q": "¿Puedo descargar gratis las imágenes de la bandera de este sitio?",
+             "a": "Sí. Cada ilustración de la galería puede descargarse gratuitamente como archivo vectorial SVG o como imagen PNG."},
+        ],
     },
     "etiquette": {
         "title": "Exhibición y Etiqueta",

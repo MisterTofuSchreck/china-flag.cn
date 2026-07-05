@@ -3,2004 +3,2004 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://china-flag.cn/en/</loc>
+    <loc>https://www.china-flag.cn/en/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-shipping-box.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-shipping-box.svg</image:loc>
       <image:title>Chinese Flag as a Package</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-car.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-car.svg</image:loc>
       <image:title>Chinese Flag as a Car</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-smartphone.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-smartphone.svg</image:loc>
       <image:title>Chinese Flag as a Smartphone</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-treasure-chest.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-treasure-chest.svg</image:loc>
       <image:title>Chinese Flag as a Treasure Chest</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-teapot.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-teapot.svg</image:loc>
       <image:title>Chinese Flag as a Teapot</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-tea-cup.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-tea-cup.svg</image:loc>
       <image:title>Chinese Flag as a Tea Cup</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-umbrella.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-umbrella.svg</image:loc>
       <image:title>Chinese Flag as an Umbrella</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-folding-fan.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-folding-fan.svg</image:loc>
       <image:title>Chinese Flag as a Folding Fan</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-red-lantern.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-red-lantern.svg</image:loc>
       <image:title>Chinese Flag as a Lantern</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-bicycle.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-bicycle.svg</image:loc>
       <image:title>Chinese Flag as a Bicycle</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-backpack.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-backpack.svg</image:loc>
       <image:title>Chinese Flag as a Backpack</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-sneaker.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-sneaker.svg</image:loc>
       <image:title>Chinese Flag as a Sneaker</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-bird.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-bird.svg</image:loc>
       <image:title>Chinese Flag as a Bird</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-dragon.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-dragon.svg</image:loc>
       <image:title>Chinese Flag as a Dragon</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-dog.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-dog.svg</image:loc>
       <image:title>Chinese Flag as a Dog</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-snake.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-snake.svg</image:loc>
       <image:title>Chinese Flag as a Snake</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-panda.svg</image:loc>
       <image:title>Chinese Flag as a Panda</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-tiger.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-tiger.svg</image:loc>
       <image:title>Chinese Flag as a Tiger</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-rabbit.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-rabbit.svg</image:loc>
       <image:title>Chinese Flag as a Rabbit</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-ox.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-ox.svg</image:loc>
       <image:title>Chinese Flag as an Ox</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-horse.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-horse.svg</image:loc>
       <image:title>Chinese Flag as a Horse</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-monkey.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-monkey.svg</image:loc>
       <image:title>Chinese Flag as a Monkey</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-rooster.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-rooster.svg</image:loc>
       <image:title>Chinese Flag as a Rooster</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-koi-fish.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-koi-fish.svg</image:loc>
       <image:title>Chinese Flag as a Koi Fish</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-china-map.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-china-map.svg</image:loc>
       <image:title>Chinese Flag as China's Outline</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-great-wall.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-great-wall.svg</image:loc>
       <image:title>Chinese Flag as the Great Wall</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-forbidden-city.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-forbidden-city.svg</image:loc>
       <image:title>Chinese Flag as the Forbidden City</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-temple-of-heaven.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-temple-of-heaven.svg</image:loc>
       <image:title>Chinese Flag as the Temple of Heaven</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-terracotta-warrior.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-terracotta-warrior.svg</image:loc>
       <image:title>Chinese Flag as a Terracotta Warrior</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-oriental-pearl-tower.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-oriental-pearl-tower.svg</image:loc>
       <image:title>Chinese Flag as the Oriental Pearl Tower</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-potala-palace.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-potala-palace.svg</image:loc>
       <image:title>Chinese Flag as the Potala Palace</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-guilin-mountains.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-guilin-mountains.svg</image:loc>
       <image:title>Chinese Flag as the Guilin Karst Mountains</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/en/chinese-flag-shaped-big-wild-goose-pagoda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/en/chinese-flag-shaped-big-wild-goose-pagoda.svg</image:loc>
       <image:title>Chinese Flag as the Big Wild Goose Pagoda</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/zh/</loc>
+    <loc>https://www.china-flag.cn/zh/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-baoguo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-baoguo.svg</image:loc>
       <image:title>包裹造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-qiche.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-qiche.svg</image:loc>
       <image:title>汽车造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-shouji.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-shouji.svg</image:loc>
       <image:title>手机造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-baoxiang.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-baoxiang.svg</image:loc>
       <image:title>宝箱造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-chahu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-chahu.svg</image:loc>
       <image:title>茶壶造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-chabei.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-chabei.svg</image:loc>
       <image:title>茶杯造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-yusan.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-yusan.svg</image:loc>
       <image:title>雨伞造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-shanzi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-shanzi.svg</image:loc>
       <image:title>扇子造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-denglong.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-denglong.svg</image:loc>
       <image:title>灯笼造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-zixingche.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-zixingche.svg</image:loc>
       <image:title>自行车造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-beibao.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-beibao.svg</image:loc>
       <image:title>背包造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-yundongxie.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-yundongxie.svg</image:loc>
       <image:title>运动鞋造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-xiaoniao.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-xiaoniao.svg</image:loc>
       <image:title>小鸟造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-long.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-long.svg</image:loc>
       <image:title>龙造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-xiaogou.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-xiaogou.svg</image:loc>
       <image:title>小狗造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-she.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-she.svg</image:loc>
       <image:title>蛇造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-xiongmao.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-xiongmao.svg</image:loc>
       <image:title>熊猫造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-laohu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-laohu.svg</image:loc>
       <image:title>老虎造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-tuzi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-tuzi.svg</image:loc>
       <image:title>兔子造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-niu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-niu.svg</image:loc>
       <image:title>牛造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-ma.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-ma.svg</image:loc>
       <image:title>马造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-houzi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-houzi.svg</image:loc>
       <image:title>猴子造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-gongji.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-gongji.svg</image:loc>
       <image:title>公鸡造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-zaoxing-de-jinli.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-zaoxing-de-jinli.svg</image:loc>
       <image:title>锦鲤造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-zhongguo-lunkuo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-zhongguo-lunkuo.svg</image:loc>
       <image:title>中国轮廓造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-changcheng.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-changcheng.svg</image:loc>
       <image:title>长城造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-gugong.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-gugong.svg</image:loc>
       <image:title>故宫造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-tiantan.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-tiantan.svg</image:loc>
       <image:title>天坛造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-bingmayong.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-bingmayong.svg</image:loc>
       <image:title>兵马俑造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-dongfang-mingzhu-ta.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-dongfang-mingzhu-ta.svg</image:loc>
       <image:title>东方明珠塔造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-budala-gong.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-budala-gong.svg</image:loc>
       <image:title>布达拉宫造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-guilin-shanshui.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-guilin-shanshui.svg</image:loc>
       <image:title>桂林山水造型的中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/zh/qizhi-peise-de-dayan-ta.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/zh/qizhi-peise-de-dayan-ta.svg</image:loc>
       <image:title>大雁塔造型的中国国旗</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/de/</loc>
+    <loc>https://www.china-flag.cn/de/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-paket.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-paket.svg</image:loc>
       <image:title>Chinesische Flagge als Paket</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-auto.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-auto.svg</image:loc>
       <image:title>Chinesische Flagge als Auto</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-smartphone.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-smartphone.svg</image:loc>
       <image:title>Chinesische Flagge als Smartphone</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-schatzkiste.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-schatzkiste.svg</image:loc>
       <image:title>Chinesische Flagge als Schatzkiste</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-teekanne.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-teekanne.svg</image:loc>
       <image:title>Chinesische Flagge als Teekanne</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-teetasse.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-teetasse.svg</image:loc>
       <image:title>Chinesische Flagge als Teetasse</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-regenschirm.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-regenschirm.svg</image:loc>
       <image:title>Chinesische Flagge als Regenschirm</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-faltfaecher.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-faltfaecher.svg</image:loc>
       <image:title>Chinesische Flagge als Faltfächer</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-laterne.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-laterne.svg</image:loc>
       <image:title>Chinesische Flagge als Laterne</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-fahrrad.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-fahrrad.svg</image:loc>
       <image:title>Chinesische Flagge als Fahrrad</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-rucksack.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-rucksack.svg</image:loc>
       <image:title>Chinesische Flagge als Rucksack</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-sneaker.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-sneaker.svg</image:loc>
       <image:title>Chinesische Flagge als Sneaker</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-vogel.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-vogel.svg</image:loc>
       <image:title>Chinesische Flagge als Vogel</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-drache.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-drache.svg</image:loc>
       <image:title>Chinesische Flagge als Drache</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-hund.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-hund.svg</image:loc>
       <image:title>Chinesische Flagge als Hund</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-schlange.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-schlange.svg</image:loc>
       <image:title>Chinesische Flagge als Schlange</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-panda.svg</image:loc>
       <image:title>Chinesische Flagge als Panda</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-tiger.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-tiger.svg</image:loc>
       <image:title>Chinesische Flagge als Tiger</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-hase.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-hase.svg</image:loc>
       <image:title>Chinesische Flagge als Hase</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-rind.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-rind.svg</image:loc>
       <image:title>Chinesische Flagge als Rind</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-pferd.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-pferd.svg</image:loc>
       <image:title>Chinesische Flagge als Pferd</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-affe.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-affe.svg</image:loc>
       <image:title>Chinesische Flagge als Affe</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-hahn.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-hahn.svg</image:loc>
       <image:title>Chinesische Flagge als Hahn</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-koi-karpfen.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-koi-karpfen.svg</image:loc>
       <image:title>Chinesische Flagge als Koi-Karpfen</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-china-umriss.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-china-umriss.svg</image:loc>
       <image:title>Chinesische Flagge als Umriss Chinas</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-grosse-mauer.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-grosse-mauer.svg</image:loc>
       <image:title>Chinesische Flagge als Große Mauer</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-verbotene-stadt.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-verbotene-stadt.svg</image:loc>
       <image:title>Chinesische Flagge als Verbotene Stadt</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-himmelstempel.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-himmelstempel.svg</image:loc>
       <image:title>Chinesische Flagge als Himmelstempel</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-terrakotta-krieger.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-terrakotta-krieger.svg</image:loc>
       <image:title>Chinesische Flagge als Terrakotta-Krieger</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-perlturm.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-perlturm.svg</image:loc>
       <image:title>Chinesische Flagge als Oriental Pearl Tower</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-potala-palast.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-potala-palast.svg</image:loc>
       <image:title>Chinesische Flagge als Potala-Palast</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-guilin-karstberge.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-guilin-karstberge.svg</image:loc>
       <image:title>Chinesische Flagge als Guilin-Karstberge</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/de/chinesische-flagge-wildganspagode.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/de/chinesische-flagge-wildganspagode.svg</image:loc>
       <image:title>Chinesische Flagge als Große Wildganspagode</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/fr/</loc>
+    <loc>https://www.china-flag.cn/fr/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-paquet.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-paquet.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Paquet</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-voiture.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-voiture.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Voiture</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-smartphone.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-smartphone.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Smartphone</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-coffre-au-tresor.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-coffre-au-tresor.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Coffre au Trésor</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-theiere.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-theiere.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Théière</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-tasse-a-the.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-tasse-a-the.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Tasse à Thé</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-parapluie.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-parapluie.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Parapluie</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-eventail.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-eventail.svg</image:loc>
       <image:title>Drapeau Chinois en Forme d'Éventail</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-lanterne.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-lanterne.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Lanterne</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-velo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-velo.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Vélo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-sac-a-dos.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-sac-a-dos.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Sac à Dos</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-basket.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-basket.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Basket</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-oiseau.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-oiseau.svg</image:loc>
       <image:title>Drapeau Chinois en Forme d'Oiseau</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-dragon.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-dragon.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Dragon</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-chien.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-chien.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Chien</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-serpent.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-serpent.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Serpent</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-panda.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Panda</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-tigre.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-tigre.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Tigre</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-lapin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-lapin.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Lapin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-boeuf.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-boeuf.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Bœuf</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-cheval.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-cheval.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Cheval</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-singe.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-singe.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Singe</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-coq.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-coq.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Coq</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-carpe-koi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-carpe-koi.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Carpe Koï</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-contour-de-la-chine.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-contour-de-la-chine.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Contour de la Chine</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-grande-muraille.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-grande-muraille.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Grande Muraille</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-cite-interdite.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-cite-interdite.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Cité Interdite</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-temple-du-ciel.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-temple-du-ciel.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Temple du Ciel</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-guerrier-en-terre-cuite.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-guerrier-en-terre-cuite.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Guerrier en Terre Cuite</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-tour-de-la-perle-orientale.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-tour-de-la-perle-orientale.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Tour de la Perle Orientale</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-palais-du-potala.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-palais-du-potala.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Palais du Potala</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-monts-karstiques-de-guilin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-monts-karstiques-de-guilin.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Monts Karstiques de Guilin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/fr/drapeau-chinois-pagode-de-la-grande-oie-sauvage.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/fr/drapeau-chinois-pagode-de-la-grande-oie-sauvage.svg</image:loc>
       <image:title>Drapeau Chinois en Forme de Pagode de la Grande Oie Sauvage</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/es/</loc>
+    <loc>https://www.china-flag.cn/es/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-paquete.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-paquete.svg</image:loc>
       <image:title>Bandera China con Forma de Paquete</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-coche.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-coche.svg</image:loc>
       <image:title>Bandera China con Forma de Coche</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-smartphone.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-smartphone.svg</image:loc>
       <image:title>Bandera China con Forma de Smartphone</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-cofre-del-tesoro.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-cofre-del-tesoro.svg</image:loc>
       <image:title>Bandera China con Forma de Cofre del Tesoro</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-tetera.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-tetera.svg</image:loc>
       <image:title>Bandera China con Forma de Tetera</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-taza-de-te.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-taza-de-te.svg</image:loc>
       <image:title>Bandera China con Forma de Taza de Té</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-paraguas.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-paraguas.svg</image:loc>
       <image:title>Bandera China con Forma de Paraguas</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-abanico.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-abanico.svg</image:loc>
       <image:title>Bandera China con Forma de Abanico</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-farolillo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-farolillo.svg</image:loc>
       <image:title>Bandera China con Forma de Farolillo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-bicicleta.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-bicicleta.svg</image:loc>
       <image:title>Bandera China con Forma de Bicicleta</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-mochila.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-mochila.svg</image:loc>
       <image:title>Bandera China con Forma de Mochila</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-zapatilla.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-zapatilla.svg</image:loc>
       <image:title>Bandera China con Forma de Zapatilla</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-pajaro.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-pajaro.svg</image:loc>
       <image:title>Bandera China con Forma de Pájaro</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-dragon.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-dragon.svg</image:loc>
       <image:title>Bandera China con Forma de Dragón</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-perro.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-perro.svg</image:loc>
       <image:title>Bandera China con Forma de Perro</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-serpiente.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-serpiente.svg</image:loc>
       <image:title>Bandera China con Forma de Serpiente</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-panda.svg</image:loc>
       <image:title>Bandera China con Forma de Panda</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-tigre.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-tigre.svg</image:loc>
       <image:title>Bandera China con Forma de Tigre</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-conejo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-conejo.svg</image:loc>
       <image:title>Bandera China con Forma de Conejo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-buey.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-buey.svg</image:loc>
       <image:title>Bandera China con Forma de Buey</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-caballo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-caballo.svg</image:loc>
       <image:title>Bandera China con Forma de Caballo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-mono.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-mono.svg</image:loc>
       <image:title>Bandera China con Forma de Mono</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-gallo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-gallo.svg</image:loc>
       <image:title>Bandera China con Forma de Gallo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-carpa-koi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-carpa-koi.svg</image:loc>
       <image:title>Bandera China con Forma de Carpa Koi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-contorno-de-china.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-contorno-de-china.svg</image:loc>
       <image:title>Bandera China con Forma del Contorno de China</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-gran-muralla.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-gran-muralla.svg</image:loc>
       <image:title>Bandera China con Forma de la Gran Muralla</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-ciudad-prohibida.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-ciudad-prohibida.svg</image:loc>
       <image:title>Bandera China con Forma de la Ciudad Prohibida</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-templo-del-cielo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-templo-del-cielo.svg</image:loc>
       <image:title>Bandera China con Forma del Templo del Cielo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-guerrero-de-terracota.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-guerrero-de-terracota.svg</image:loc>
       <image:title>Bandera China con Forma de Guerrero de Terracota</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-torre-de-la-perla-oriental.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-torre-de-la-perla-oriental.svg</image:loc>
       <image:title>Bandera China con Forma de la Torre de la Perla Oriental</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-palacio-potala.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-palacio-potala.svg</image:loc>
       <image:title>Bandera China con Forma del Palacio Potala</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-montanas-karsticas-de-guilin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-montanas-karsticas-de-guilin.svg</image:loc>
       <image:title>Bandera China con Forma de las Montañas Kársticas de Guilin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/es/bandera-china-pagoda-del-ganso-salvaje.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/es/bandera-china-pagoda-del-ganso-salvaje.svg</image:loc>
       <image:title>Bandera China con Forma de la Pagoda del Ganso Salvaje</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/it/</loc>
+    <loc>https://www.china-flag.cn/it/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-pacco.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-pacco.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Pacco</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-auto.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-auto.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Auto</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-smartphone.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-smartphone.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Smartphone</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-forziere.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-forziere.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Forziere</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-teiera.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-teiera.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Teiera</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-tazza-da-te.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-tazza-da-te.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Tazza da Tè</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-ombrello.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-ombrello.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Ombrello</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-ventaglio.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-ventaglio.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Ventaglio</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-lanterna.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-lanterna.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Lanterna</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-bicicletta.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-bicicletta.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Bicicletta</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-zaino.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-zaino.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Zaino</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-sneaker.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-sneaker.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Sneaker</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-uccello.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-uccello.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Uccello</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-drago.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-drago.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Drago</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-cane.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-cane.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Cane</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-serpente.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-serpente.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Serpente</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-panda.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Panda</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-tigre.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-tigre.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Tigre</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-coniglio.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-coniglio.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Coniglio</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-bue.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-bue.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Bue</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-cavallo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-cavallo.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Cavallo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-scimmia.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-scimmia.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Scimmia</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-gallo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-gallo.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Gallo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-carpa-koi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-carpa-koi.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Carpa Koi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-contorno-della-cina.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-contorno-della-cina.svg</image:loc>
       <image:title>Bandiera Cinese a Forma del Contorno della Cina</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-grande-muraglia.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-grande-muraglia.svg</image:loc>
       <image:title>Bandiera Cinese a Forma della Grande Muraglia</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-citta-proibita.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-citta-proibita.svg</image:loc>
       <image:title>Bandiera Cinese a Forma della Città Proibita</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-tempio-del-cielo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-tempio-del-cielo.svg</image:loc>
       <image:title>Bandiera Cinese a Forma del Tempio del Cielo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-guerriero-di-terracotta.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-guerriero-di-terracotta.svg</image:loc>
       <image:title>Bandiera Cinese a Forma di Guerriero di Terracotta</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-torre-della-perla-orientale.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-torre-della-perla-orientale.svg</image:loc>
       <image:title>Bandiera Cinese a Forma della Torre della Perla Orientale</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-palazzo-del-potala.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-palazzo-del-potala.svg</image:loc>
       <image:title>Bandiera Cinese a Forma del Palazzo del Potala</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-montagne-carsiche-di-guilin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-montagne-carsiche-di-guilin.svg</image:loc>
       <image:title>Bandiera Cinese a Forma delle Montagne Carsiche di Guilin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/it/bandiera-cinese-pagoda-dell-oca-selvatica.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/it/bandiera-cinese-pagoda-dell-oca-selvatica.svg</image:loc>
       <image:title>Bandiera Cinese a Forma della Pagoda dell'Oca Selvatica</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/hi/</loc>
+    <loc>https://www.china-flag.cn/hi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-parcel.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-parcel.svg</image:loc>
       <image:title>पार्सल के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-car.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-car.svg</image:loc>
       <image:title>कार के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-smartphone.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-smartphone.svg</image:loc>
       <image:title>स्मार्टफ़ोन के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-khazana-sanduk.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-khazana-sanduk.svg</image:loc>
       <image:title>ख़ज़ाना संदूक के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-chaayadaani.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-chaayadaani.svg</image:loc>
       <image:title>चायदानी के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-chaay-ka-cup.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-chaay-ka-cup.svg</image:loc>
       <image:title>चाय के कप के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-chhata.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-chhata.svg</image:loc>
       <image:title>छाते के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-pankha.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-pankha.svg</image:loc>
       <image:title>पंखे के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-lantern.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-lantern.svg</image:loc>
       <image:title>लालटेन के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-cycle.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-cycle.svg</image:loc>
       <image:title>साइकिल के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-backpack.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-backpack.svg</image:loc>
       <image:title>बैकपैक के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-sneaker.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-sneaker.svg</image:loc>
       <image:title>स्नीकर के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-chidiya.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-chidiya.svg</image:loc>
       <image:title>चिड़िया के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-dragon.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-dragon.svg</image:loc>
       <image:title>ड्रैगन के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-kutta.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-kutta.svg</image:loc>
       <image:title>कुत्ते के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-saanp.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-saanp.svg</image:loc>
       <image:title>साँप के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-panda.svg</image:loc>
       <image:title>पांडा के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-baagh.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-baagh.svg</image:loc>
       <image:title>बाघ के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-khargosh.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-khargosh.svg</image:loc>
       <image:title>खरगोश के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-bail.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-bail.svg</image:loc>
       <image:title>बैल के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-ghoda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-ghoda.svg</image:loc>
       <image:title>घोड़े के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-bandar.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-bandar.svg</image:loc>
       <image:title>बंदर के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-murga.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-murga.svg</image:loc>
       <image:title>मुर्गे के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-koi-fish.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-koi-fish.svg</image:loc>
       <image:title>कोई मछली के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-china-ki-rooprekha.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-china-ki-rooprekha.svg</image:loc>
       <image:title>चीन की रूपरेखा के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-diwar-e-chin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-diwar-e-chin.svg</image:loc>
       <image:title>चीन की महान दीवार के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-nishiddh-shahar.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-nishiddh-shahar.svg</image:loc>
       <image:title>निषिद्ध नगर के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-swarg-mandir.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-swarg-mandir.svg</image:loc>
       <image:title>स्वर्ग मंदिर के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-terracotta-yodha.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-terracotta-yodha.svg</image:loc>
       <image:title>टेराकोटा योद्धा के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-oriental-pearl-tower.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-oriental-pearl-tower.svg</image:loc>
       <image:title>ओरिएंटल पर्ल टावर के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-potala-mahal.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-potala-mahal.svg</image:loc>
       <image:title>पोताला महल के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-guilin-parvat.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-guilin-parvat.svg</image:loc>
       <image:title>गुइलिन के पर्वतों के आकार में चीन का झंडा</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/hi/chini-jhanda-wild-goose-pagoda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/hi/chini-jhanda-wild-goose-pagoda.svg</image:loc>
       <image:title>वाइल्ड गूज़ पैगोडा के आकार में चीन का झंडा</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/ar/</loc>
+    <loc>https://www.china-flag.cn/ar/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-tard.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-tard.svg</image:loc>
       <image:title>علم الصين على شكل طرد</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-sayara.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-sayara.svg</image:loc>
       <image:title>علم الصين على شكل سيارة</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-hatif.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-hatif.svg</image:loc>
       <image:title>علم الصين على شكل هاتف ذكي</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-sunduq-alkanz.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-sunduq-alkanz.svg</image:loc>
       <image:title>علم الصين على شكل صندوق كنز</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-ibriq-shay.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-ibriq-shay.svg</image:loc>
       <image:title>علم الصين على شكل إبريق شاي</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-finjan-shay.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-finjan-shay.svg</image:loc>
       <image:title>علم الصين على شكل فنجان شاي</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-mazalla.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-mazalla.svg</image:loc>
       <image:title>علم الصين على شكل مظلة</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-mirwaha.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-mirwaha.svg</image:loc>
       <image:title>علم الصين على شكل مروحة يدوية</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-fanous.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-fanous.svg</image:loc>
       <image:title>علم الصين على شكل فانوس</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-darraja.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-darraja.svg</image:loc>
       <image:title>علم الصين على شكل دراجة</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-haqiba.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-haqiba.svg</image:loc>
       <image:title>علم الصين على شكل حقيبة ظهر</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-hidha-riyadi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-hidha-riyadi.svg</image:loc>
       <image:title>علم الصين على شكل حذاء رياضي</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-tair.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-tair.svg</image:loc>
       <image:title>علم الصين على شكل طائر</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-tinnin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-tinnin.svg</image:loc>
       <image:title>علم الصين على شكل تنين</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-kalb.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-kalb.svg</image:loc>
       <image:title>علم الصين على شكل كلب</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-thuban.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-thuban.svg</image:loc>
       <image:title>علم الصين على شكل ثعبان</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-panda.svg</image:loc>
       <image:title>علم الصين على شكل باندا</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-namir.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-namir.svg</image:loc>
       <image:title>علم الصين على شكل نمر</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-arnab.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-arnab.svg</image:loc>
       <image:title>علم الصين على شكل أرنب</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-thawr.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-thawr.svg</image:loc>
       <image:title>علم الصين على شكل ثور</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-hisan.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-hisan.svg</image:loc>
       <image:title>علم الصين على شكل حصان</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-qird.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-qird.svg</image:loc>
       <image:title>علم الصين على شكل قرد</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-deek.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-deek.svg</image:loc>
       <image:title>علم الصين على شكل ديك</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-samak-koi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-samak-koi.svg</image:loc>
       <image:title>علم الصين على شكل سمكة كوي</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-khareetat-alsin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-khareetat-alsin.svg</image:loc>
       <image:title>علم الصين على شكل خريطة الصين</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-soor-alsin-alazeem.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-soor-alsin-alazeem.svg</image:loc>
       <image:title>علم الصين على شكل سور الصين العظيم</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-almadina-almuharrama.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-almadina-almuharrama.svg</image:loc>
       <image:title>علم الصين على شكل المدينة المحرمة</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-maabad-alsama.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-maabad-alsama.svg</image:loc>
       <image:title>علم الصين على شكل معبد السماء</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-junud-alteracotta.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-junud-alteracotta.svg</image:loc>
       <image:title>علم الصين على شكل جندي من الطين المشوي</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-burj-allulua-alsharqiya.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-burj-allulua-alsharqiya.svg</image:loc>
       <image:title>علم الصين على شكل برج اللؤلؤة الشرقية</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-qasr-potala.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-qasr-potala.svg</image:loc>
       <image:title>علم الصين على شكل قصر بوتالا</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-jibal-guilin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-jibal-guilin.svg</image:loc>
       <image:title>علم الصين على شكل جبال غويلين الكارستية</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ar/alam-sini-baguda-alwazza-albariya.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ar/alam-sini-baguda-alwazza-albariya.svg</image:loc>
       <image:title>علم الصين على شكل باغودا الإوزة البرية</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/pt/</loc>
+    <loc>https://www.china-flag.cn/pt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-pacote.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-pacote.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Pacote</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-carro.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-carro.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Carro</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-smartphone.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-smartphone.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Smartphone</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-bau-do-tesouro.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-bau-do-tesouro.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Baú do Tesouro</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-bule.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-bule.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Bule</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-xicara-de-cha.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-xicara-de-cha.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Xícara de Chá</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-guarda-chuva.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-guarda-chuva.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Guarda-Chuva</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-leque.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-leque.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Leque</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-lanterna.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-lanterna.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Lanterna</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-bicicleta.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-bicicleta.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Bicicleta</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-mochila.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-mochila.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Mochila</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-tenis.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-tenis.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Tênis</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-passaro.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-passaro.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Pássaro</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-dragao.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-dragao.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Dragão</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-cao.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-cao.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Cão</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-cobra.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-cobra.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Cobra</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-panda.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Panda</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-tigre.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-tigre.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Tigre</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-coelho.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-coelho.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Coelho</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-boi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-boi.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Boi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-cavalo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-cavalo.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Cavalo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-macaco.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-macaco.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Macaco</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-galo.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-galo.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Galo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-carpa-koi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-carpa-koi.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Carpa Koi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-contorno-da-china.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-contorno-da-china.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma do Contorno da China</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-grande-muralha.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-grande-muralha.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma da Grande Muralha</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-cidade-proibida.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-cidade-proibida.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma da Cidade Proibida</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-templo-do-ceu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-templo-do-ceu.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma do Templo do Céu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-guerreiro-de-terracota.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-guerreiro-de-terracota.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma de Guerreiro de Terracota</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-torre-da-perola-oriental.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-torre-da-perola-oriental.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma da Torre da Pérola Oriental</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-palacio-potala.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-palacio-potala.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma do Palácio Potala</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-montanhas-carsticas-de-guilin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-montanhas-carsticas-de-guilin.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma das Montanhas Cársicas de Guilin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pt/bandeira-chinesa-pagode-do-ganso-selvagem.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pt/bandeira-chinesa-pagode-do-ganso-selvagem.svg</image:loc>
       <image:title>Bandeira Chinesa em Forma do Pagode do Ganso Selvagem</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/ja/</loc>
+    <loc>https://www.china-flag.cn/ja/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-kozutsumi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-kozutsumi.svg</image:loc>
       <image:title>小包の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-kuruma.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-kuruma.svg</image:loc>
       <image:title>車の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-sumaho.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-sumaho.svg</image:loc>
       <image:title>スマートフォンの形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-takarabako.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-takarabako.svg</image:loc>
       <image:title>宝箱の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-kyusu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-kyusu.svg</image:loc>
       <image:title>急須の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-yunomi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-yunomi.svg</image:loc>
       <image:title>湯呑みの形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-kasa.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-kasa.svg</image:loc>
       <image:title>傘の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-sensu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-sensu.svg</image:loc>
       <image:title>扇子の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-chochin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-chochin.svg</image:loc>
       <image:title>提灯の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-jitensha.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-jitensha.svg</image:loc>
       <image:title>自転車の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-ryukku.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-ryukku.svg</image:loc>
       <image:title>リュックの形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-sunika.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-sunika.svg</image:loc>
       <image:title>スニーカーの形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-tori.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-tori.svg</image:loc>
       <image:title>鳥の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-ryu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-ryu.svg</image:loc>
       <image:title>龍の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-inu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-inu.svg</image:loc>
       <image:title>犬の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-hebi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-hebi.svg</image:loc>
       <image:title>蛇の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-panda.svg</image:loc>
       <image:title>パンダの形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-tora.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-tora.svg</image:loc>
       <image:title>虎の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-usagi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-usagi.svg</image:loc>
       <image:title>ウサギの形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-ushi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-ushi.svg</image:loc>
       <image:title>牛の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-uma.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-uma.svg</image:loc>
       <image:title>馬の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-saru.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-saru.svg</image:loc>
       <image:title>猿の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-niwatori.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-niwatori.svg</image:loc>
       <image:title>雄鶏の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-koi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-koi.svg</image:loc>
       <image:title>鯉の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-chugoku-rinkaku.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-chugoku-rinkaku.svg</image:loc>
       <image:title>中国の輪郭をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-banrinochoujou.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-banrinochoujou.svg</image:loc>
       <image:title>万里の長城の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-shikinjou.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-shikinjou.svg</image:loc>
       <image:title>紫禁城の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-tendan.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-tendan.svg</image:loc>
       <image:title>天壇の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-heibayou.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-heibayou.svg</image:loc>
       <image:title>兵馬俑の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-toho-meishu-to.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-toho-meishu-to.svg</image:loc>
       <image:title>東方明珠タワーの形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-potala-kyuden.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-potala-kyuden.svg</image:loc>
       <image:title>ポタラ宮の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-keirin-sansui.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-keirin-sansui.svg</image:loc>
       <image:title>桂林山水の形をした中国国旗</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/ja/chugoku-kokki-daigan-tou.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/ja/chugoku-kokki-daigan-tou.svg</image:loc>
       <image:title>大雁塔の形をした中国国旗</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/sv/</loc>
+    <loc>https://www.china-flag.cn/sv/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-paket.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-paket.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av ett Paket</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-bil.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-bil.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Bil</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-mobil.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-mobil.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Mobil</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-skattkista.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-skattkista.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Skattkista</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-tekanna.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-tekanna.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Tekanna</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-tekopp.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-tekopp.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Tekopp</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-paraply.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-paraply.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av ett Paraply</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-solfjader.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-solfjader.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Solfjäder</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-lykta.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-lykta.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Lykta</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-cykel.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-cykel.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Cykel</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-ryggsack.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-ryggsack.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Ryggsäck</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-sneaker.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-sneaker.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Sneaker</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-fagel.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-fagel.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Fågel</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-drake.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-drake.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Drake</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-hund.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-hund.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Hund</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-orm.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-orm.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Orm</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-panda.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Panda</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-tiger.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-tiger.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Tiger</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-kanin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-kanin.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Kanin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-oxe.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-oxe.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Oxe</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-hast.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-hast.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Häst</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-apa.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-apa.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Apa</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-tupp.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-tupp.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Tupp</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-koikarp.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-koikarp.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Koikarp</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-kinas-konturer.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-kinas-konturer.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av Kinas Konturer</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-kinesiska-muren.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-kinesiska-muren.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av Kinesiska Muren</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-forbjudna-staden.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-forbjudna-staden.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av Förbjudna Staden</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-himmelstemplet.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-himmelstemplet.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av Himmelstemplet</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-terrakottakrigare.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-terrakottakrigare.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av en Terrakottakrigare</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-pearltower.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-pearltower.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av Pearl Tower</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-potalapalatset.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-potalapalatset.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av Potalapalatset</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-guilins-karstberg.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-guilins-karstberg.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av Guilins Karstberg</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/sv/kinesisk-flagga-vildgaspagoden.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/sv/kinesisk-flagga-vildgaspagoden.svg</image:loc>
       <image:title>Kinesisk Flagga i Form av Vildgåspagoden</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/nl/</loc>
+    <loc>https://www.china-flag.cn/nl/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-pakket.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-pakket.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Pakket</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-auto.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-auto.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Auto</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-smartphone.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-smartphone.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Smartphone</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-schatkist.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-schatkist.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Schatkist</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-theepot.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-theepot.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Theepot</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-theekopje.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-theekopje.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Theekopje</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-paraplu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-paraplu.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Paraplu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-waaier.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-waaier.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Waaier</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-lantaarn.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-lantaarn.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Lantaarn</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-fiets.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-fiets.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Fiets</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-rugzak.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-rugzak.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Rugzak</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-sneaker.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-sneaker.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Sneaker</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-vogel.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-vogel.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Vogel</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-draak.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-draak.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Draak</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-hond.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-hond.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Hond</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-slang.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-slang.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Slang</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-panda.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Panda</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-tijger.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-tijger.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Tijger</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-konijn.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-konijn.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Konijn</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-os.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-os.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Os</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-paard.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-paard.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Paard</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-aap.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-aap.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Aap</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-haan.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-haan.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Haan</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-koikarper.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-koikarper.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Koikarper</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-omtrek-van-china.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-omtrek-van-china.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van de Omtrek van China</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-chinese-muur.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-chinese-muur.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van de Chinese Muur</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-verboden-stad.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-verboden-stad.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van de Verboden Stad</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-hemeltempel.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-hemeltempel.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van de Hemeltempel</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-terracotta-krijger.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-terracotta-krijger.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van een Terracotta Krijger</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-oriental-pearl-tower.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-oriental-pearl-tower.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van de Oriental Pearl Tower</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-potala-paleis.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-potala-paleis.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van het Potala-paleis</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-guilin-karstbergen.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-guilin-karstbergen.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van de Karstbergen van Guilin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/nl/chinese-vlag-wilde-ganzenpagode.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/nl/chinese-vlag-wilde-ganzenpagode.svg</image:loc>
       <image:title>Chinese Vlag in de Vorm van de Wilde Ganzenpagode</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://china-flag.cn/pl/</loc>
+    <loc>https://www.china-flag.cn/pl/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://china-flag.cn/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://china-flag.cn/zh/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://china-flag.cn/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://china-flag.cn/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://china-flag.cn/es/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://china-flag.cn/it/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://china-flag.cn/hi/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://china-flag.cn/ar/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://china-flag.cn/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://china-flag.cn/ja/"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://china-flag.cn/sv/"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://china-flag.cn/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://china-flag.cn/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.china-flag.cn/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.china-flag.cn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.china-flag.cn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.china-flag.cn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.china-flag.cn/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.china-flag.cn/it/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://www.china-flag.cn/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.china-flag.cn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.china-flag.cn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.china-flag.cn/ja/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://www.china-flag.cn/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.china-flag.cn/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.china-flag.cn/pl/"/>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/flag.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/flag.svg</image:loc>
       <image:title>Flag of the People's Republic of China (Five-Star Red Flag)</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-paczka.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-paczka.svg</image:loc>
       <image:title>Flaga Chin jako Paczka</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-samochod.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-samochod.svg</image:loc>
       <image:title>Flaga Chin jako Samochód</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-smartfon.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-smartfon.svg</image:loc>
       <image:title>Flaga Chin jako Smartfon</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-skrzynia-skarbow.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-skrzynia-skarbow.svg</image:loc>
       <image:title>Flaga Chin jako Skrzynia Skarbów</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-czajniczek.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-czajniczek.svg</image:loc>
       <image:title>Flaga Chin jako Czajniczek</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-filizanka.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-filizanka.svg</image:loc>
       <image:title>Flaga Chin jako Filiżanka</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-parasol.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-parasol.svg</image:loc>
       <image:title>Flaga Chin jako Parasol</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-wachlarz.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-wachlarz.svg</image:loc>
       <image:title>Flaga Chin jako Wachlarz</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-lampion.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-lampion.svg</image:loc>
       <image:title>Flaga Chin jako Lampion</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-rower.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-rower.svg</image:loc>
       <image:title>Flaga Chin jako Rower</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-plecak.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-plecak.svg</image:loc>
       <image:title>Flaga Chin jako Plecak</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-sneakers.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-sneakers.svg</image:loc>
       <image:title>Flaga Chin jako Sneakersy</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-ptak.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-ptak.svg</image:loc>
       <image:title>Flaga Chin jako Ptak</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-smok.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-smok.svg</image:loc>
       <image:title>Flaga Chin jako Smok</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-pies.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-pies.svg</image:loc>
       <image:title>Flaga Chin jako Pies</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-waz.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-waz.svg</image:loc>
       <image:title>Flaga Chin jako Wąż</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-panda.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-panda.svg</image:loc>
       <image:title>Flaga Chin jako Panda</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-tygrys.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-tygrys.svg</image:loc>
       <image:title>Flaga Chin jako Tygrys</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-krolik.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-krolik.svg</image:loc>
       <image:title>Flaga Chin jako Królik</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-wol.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-wol.svg</image:loc>
       <image:title>Flaga Chin jako Wół</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-kon.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-kon.svg</image:loc>
       <image:title>Flaga Chin jako Koń</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-malpa.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-malpa.svg</image:loc>
       <image:title>Flaga Chin jako Małpa</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-kogut.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-kogut.svg</image:loc>
       <image:title>Flaga Chin jako Kogut</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-karp-koi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-karp-koi.svg</image:loc>
       <image:title>Flaga Chin jako Karp Koi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-kontur-chin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-kontur-chin.svg</image:loc>
       <image:title>Flaga Chin jako Kontur Chin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-wielki-mur.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-wielki-mur.svg</image:loc>
       <image:title>Flaga Chin jako Wielki Mur</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-zakazane-miasto.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-zakazane-miasto.svg</image:loc>
       <image:title>Flaga Chin jako Zakazane Miasto</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-swiatynia-nieba.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-swiatynia-nieba.svg</image:loc>
       <image:title>Flaga Chin jako Świątynia Nieba</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-wojownik-terakotowy.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-wojownik-terakotowy.svg</image:loc>
       <image:title>Flaga Chin jako Wojownik Terakotowy</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-wieza-perly-orientu.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-wieza-perly-orientu.svg</image:loc>
       <image:title>Flaga Chin jako Wieża Perły Orientu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-palac-potala.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-palac-potala.svg</image:loc>
       <image:title>Flaga Chin jako Pałac Potala</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-gory-krasowe-guilin.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-gory-krasowe-guilin.svg</image:loc>
       <image:title>Flaga Chin jako Góry Krasowe Guilin</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://china-flag.cn/assets/pl/flaga-chin-pagoda-dzikiej-gesi.svg</image:loc>
+      <image:loc>https://www.china-flag.cn/assets/pl/flaga-chin-pagoda-dzikiej-gesi.svg</image:loc>
       <image:title>Flaga Chin jako Pagoda Dzikiej Gęsi</image:title>
     </image:image>
   </url>

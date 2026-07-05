@@ -17,7 +17,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from content import LANGS, LANG_META, GALLERY_ITEMS, GALLERY_GROUPS, CONTENT
 
-SITE_URL = "https://china-flag.cn"
+SITE_URL = "https://www.china-flag.cn"
 
 
 def esc(s):

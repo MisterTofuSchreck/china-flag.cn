@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 DATA = {
     "meta": {
-        "title": "Bandeira Chinesa — Significado, História e Factos sobre a Bandeira Vermelha de Cinco Estrelas",
-        "description": "A bandeira chinesa explicada: significado das cinco estrelas, história da bandeira vermelha de cinco estrelas, cores e proporções oficiais, etiqueta de hasteamento e ilustrações temáticas.",
+        "title": "Bandeira Chinesa — Significado, História e Cores",
+        "description": "A bandeira chinesa explicada: significado das cinco estrelas, história, cores e proporções oficiais, e 33 ilustrações para descarregar grátis.",
     },
     "brand": "Bandeira Chinesa",
     "nav": {"meaning": "Significado", "history": "História", "data": "Dados Técnicos", "gallery": "Galeria", "etiquette": "Etiqueta", "faq": "FAQ"},

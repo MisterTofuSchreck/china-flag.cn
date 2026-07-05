@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 DATA = {
     "meta": {
-        "title": "Drapeau Chinois — Signification, Histoire et Faits sur le Drapeau Rouge aux Cinq Étoiles",
-        "description": "Le drapeau chinois expliqué : signification des cinq étoiles, histoire du drapeau rouge aux cinq étoiles, couleurs et proportions officielles, étiquette et illustrations à thème.",
+        "title": "Drapeau Chinois — Signification, Histoire et Couleurs",
+        "description": "Le drapeau chinois expliqué : signification des cinq étoiles, histoire, couleurs et proportions officielles — plus 33 illustrations à télécharger gratuitement.",
     },
     "brand": "Drapeau Chinois",
     "nav": {"meaning": "Signification", "history": "Histoire", "data": "Données Techniques", "gallery": "Galerie", "etiquette": "Étiquette", "faq": "FAQ"},

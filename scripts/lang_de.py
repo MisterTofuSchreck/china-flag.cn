@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 DATA = {
     "meta": {
-        "title": "Chinesische Flagge — Bedeutung, Geschichte & Fakten zur Fünf-Sterne-Flagge",
-        "description": "Die chinesische Flagge erklärt: Bedeutung der fünf Sterne, Geschichte der Fünf-Sterne-Roten Flagge, offizielle Farben & Proportionen, Beflaggungsregeln und thematische Illustrationen.",
+        "title": "Chinesische Flagge — Bedeutung, Geschichte & Farben",
+        "description": "Die chinesische Flagge erklärt: Bedeutung der fünf Sterne, Geschichte, offizielle Farben und Proportionen — plus 33 Grafiken als kostenloser Download.",
     },
     "brand": "China Flagge",
     "nav": {"meaning": "Bedeutung", "history": "Geschichte", "data": "Technische Daten", "gallery": "Galerie", "etiquette": "Etikette", "faq": "FAQ"},

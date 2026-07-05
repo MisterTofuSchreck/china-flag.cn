@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 DATA = {
     "meta": {
-        "title": "Chinese Vlag — Betekenis, Geschiedenis en Feiten over de Rode Vijfsterrenvlag",
+        "title": "Chinese Vlag — Betekenis, Geschiedenis en Kleuren",
         "description": "De Chinese vlag uitgelegd: betekenis van de vijf sterren, geschiedenis van de rode vijfsterrenvlag, officiële kleuren en verhoudingen, vlagetiquette en vlagthema-illustraties.",
     },
     "brand": "Chinese Vlag",

@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 DATA = {
     "meta": {
-        "title": "Bandiera Cinese — Significato, Storia e Curiosità sulla Bandiera Rossa a Cinque Stelle",
-        "description": "La bandiera cinese spiegata: significato delle cinque stelle, storia della bandiera rossa a cinque stelle, colori e proporzioni ufficiali, galateo di esposizione e illustrazioni a tema.",
+        "title": "Bandiera Cinese — Significato, Storia e Colori",
+        "description": "La bandiera cinese spiegata: significato delle cinque stelle, storia, colori e proporzioni ufficiali, più 33 illustrazioni da scaricare gratis.",
     },
     "brand": "Bandiera Cinese",
     "nav": {"meaning": "Significato", "history": "Storia", "data": "Dati Tecnici", "gallery": "Galleria", "etiquette": "Galateo", "faq": "FAQ"},

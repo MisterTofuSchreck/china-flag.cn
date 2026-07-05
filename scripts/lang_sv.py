@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 DATA = {
     "meta": {
-        "title": "Kinas Flagga — Betydelse, Historia och Fakta om den Röda Femstjärniga Flaggan",
-        "description": "Kinas flagga förklarad: betydelsen av de fem stjärnorna, historien om den röda femstjärniga flaggan, officiella färger och proportioner, flaggetikett och flaggtema-illustrationer.",
+        "title": "Kinas Flagga — Betydelse, Historia och Färger",
+        "description": "Kinas flagga förklarad: de fem stjärnornas betydelse, historia, officiella färger och proportioner — plus 33 illustrationer att ladda ner gratis.",
     },
     "brand": "Kinas Flagga",
     "nav": {"meaning": "Betydelse", "history": "Historia", "data": "Teknisk Data", "gallery": "Galleri", "etiquette": "Etikett", "faq": "FAQ"},

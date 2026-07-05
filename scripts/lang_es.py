@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 DATA = {
     "meta": {
-        "title": "Bandera China — Significado, Historia y Datos de la Bandera Roja de Cinco Estrellas",
-        "description": "La bandera china explicada: significado de las cinco estrellas, historia de la bandera roja de cinco estrellas, colores y proporciones oficiales, etiqueta de exhibición e ilustraciones temáticas.",
+        "title": "Bandera China — Significado, Historia y Colores",
+        "description": "La bandera china explicada: significado de las cinco estrellas, historia, colores y proporciones oficiales, y 33 ilustraciones para descargar gratis.",
     },
     "brand": "Bandera China",
     "nav": {"meaning": "Significado", "history": "Historia", "data": "Datos Técnicos", "gallery": "Galería", "etiquette": "Etiqueta", "faq": "FAQ"},

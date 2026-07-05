@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 DATA = {
     "meta": {
-        "title": "Flaga Chin — Znaczenie, Historia i Fakty o Czerwonej Fladze z Pięcioma Gwiazdami",
+        "title": "Flaga Chin — Znaczenie, Historia i Kolory",
         "description": "Flaga Chin wyjaśniona: znaczenie pięciu gwiazd, historia czerwonej flagi z pięcioma gwiazdami, oficjalne kolory i proporcje, etykieta flagowania oraz ilustracje tematyczne.",
     },
     "brand": "Flaga Chin",

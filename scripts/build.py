@@ -255,13 +255,17 @@ def render_page(lang):
 <meta property="og:title" content="{esc(c['meta']['title'])}">
 <meta property="og:description" content="{esc(c['meta']['description'])}">
 <meta property="og:url" content="{SITE_URL}/{lang}/">
-<meta property="og:image" content="{SITE_URL}/assets/flag.svg">
+<meta property="og:image" content="{SITE_URL}/assets/og-image.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{esc(c['hero']['flag_alt'])}">
 <meta property="og:locale" content="{meta['og_locale']}">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{esc(c['meta']['title'])}">
 <meta name="twitter:description" content="{esc(c['meta']['description'])}">
-<meta name="twitter:image" content="{SITE_URL}/assets/flag.svg">
+<meta name="twitter:image" content="{SITE_URL}/assets/og-image.png">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

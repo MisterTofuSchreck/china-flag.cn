@@ -28,6 +28,8 @@ All translated text lives in `scripts/lang_<code>.py` (one file per language) pl
 
 The master illustrations (`assets/chinese-flag-shaped-*.svg` and `assets/flag.svg`) are the source of truth for artwork; don't edit the per-language copies directly since they're overwritten on every build.
 
+The social-media preview image (`assets/og-image.png`, 1200×630) is generated separately by `python scripts/make_og_image.py` (requires Pillow) and committed as a static asset — regenerate it only when the flag design changes.
+
 ## Running locally
 
 Serve the repository root with any static file server, e.g.:

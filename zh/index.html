@@ -4,14 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T8ESP5R6HR"></script>
+<!-- Google tag (gtag.js) — wird erst nach Consent geladen, siehe js/script.js -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T8ESP5R6HR');
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied'
+  });
+  window.CF_GA_ID = 'G-T8ESP5R6HR';
 </script>
 <title>中国国旗——含义、历史与五星红旗知识 | China Flag</title>
 <meta name="description" content="深入了解中华人民共和国国旗:五颗星的含义、五星红旗的历史、官方颜色与比例、悬挂礼仪,以及国旗主题插画。">
@@ -628,9 +631,18 @@
     <p>本网站为关于中华人民共和国国旗的独立、非官方资讯网站,与任何政府机构均无关联,亦未获其认可或代表其运营。</p>
     <p class="footer-meta">
       <span>© <span id="year"></span> China-Flag.cn</span>
+      <button type="button" id="consentSettings" class="consent-settings">Cookie 设置</button>
     </p>
   </div>
 </footer>
+
+<div class="consent-banner" id="consentBanner" hidden>
+  <p>我们希望使用 Google Analytics 统计本站的访问情况。只有在您同意后,才会设置统计 Cookie。</p>
+  <div class="consent-actions">
+    <button type="button" id="consentAccept" class="consent-btn consent-accept">同意</button>
+    <button type="button" id="consentDecline" class="consent-btn consent-decline">拒绝</button>
+  </div>
+</div>
 
 <script src="/js/script.js"></script>
 </body>

@@ -88,6 +88,12 @@ DATA = {
         "svg": "„{name}“ als SVG herunterladen",
         "png": "„{name}“ als PNG herunterladen",
     },
+    "consent": {
+        "text": "Wir möchten mit Google Analytics messen, wie diese Seite genutzt wird. Statistik-Cookies werden nur gesetzt, wenn du zustimmst.",
+        "accept": "Akzeptieren",
+        "decline": "Ablehnen",
+        "settings": "Cookie-Einstellungen",
+    },
     "faq": {
         "title": "Häufige Fragen",
         "items": [

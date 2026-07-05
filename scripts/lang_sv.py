@@ -88,6 +88,12 @@ DATA = {
         "svg": "Ladda ner {name} som SVG",
         "png": "Ladda ner {name} som PNG",
     },
+    "consent": {
+        "text": "Vi vill mäta hur den här webbplatsen används med Google Analytics. Statistikcookies sätts bara om du godkänner det.",
+        "accept": "Godkänn",
+        "decline": "Avböj",
+        "settings": "Cookie-inställningar",
+    },
     "faq": {
         "title": "Vanliga Frågor",
         "items": [

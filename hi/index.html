@@ -4,14 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T8ESP5R6HR"></script>
+<!-- Google tag (gtag.js) — wird erst nach Consent geladen, siehe js/script.js -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T8ESP5R6HR');
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied'
+  });
+  window.CF_GA_ID = 'G-T8ESP5R6HR';
 </script>
 <title>चीन का झंडा — पाँच सितारों वाले लाल झंडे का अर्थ, इतिहास और तथ्य</title>
 <meta name="description" content="चीन के झंडे की पूरी जानकारी: पाँच सितारों का अर्थ, पाँच-सितारा लाल झंडे का इतिहास, आधिकारिक रंग और अनुपात, झंडा फहराने की शिष्टाचार, और झंडा-थीम वाले चित्र।">
@@ -628,9 +631,18 @@
     <p>यह चीन जनवादी गणराज्य के झंडे के बारे में एक स्वतंत्र, अनौपचारिक सूचनात्मक वेबसाइट है। यह किसी भी सरकार से संबद्ध नहीं है, न ही किसी सरकार द्वारा समर्थित या संचालित है।</p>
     <p class="footer-meta">
       <span>© <span id="year"></span> China-Flag.cn</span>
+      <button type="button" id="consentSettings" class="consent-settings">कुकी सेटिंग्स</button>
     </p>
   </div>
 </footer>
+
+<div class="consent-banner" id="consentBanner" hidden>
+  <p>हम Google Analytics से यह मापना चाहते हैं कि इस साइट का उपयोग कैसे होता है। सांख्यिकी कुकीज़ केवल आपकी सहमति से ही सेट की जाती हैं।</p>
+  <div class="consent-actions">
+    <button type="button" id="consentAccept" class="consent-btn consent-accept">स्वीकार करें</button>
+    <button type="button" id="consentDecline" class="consent-btn consent-decline">अस्वीकार करें</button>
+  </div>
+</div>
 
 <script src="/js/script.js"></script>
 </body>

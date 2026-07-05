@@ -88,6 +88,12 @@ DATA = {
         "svg": "下载「{name}」SVG图片",
         "png": "下载「{name}」PNG图片",
     },
+    "consent": {
+        "text": "我们希望使用 Google Analytics 统计本站的访问情况。只有在您同意后,才会设置统计 Cookie。",
+        "accept": "同意",
+        "decline": "拒绝",
+        "settings": "Cookie 设置",
+    },
     "faq": {
         "title": "常见问题",
         "items": [

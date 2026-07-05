@@ -4,14 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T8ESP5R6HR"></script>
+<!-- Google tag (gtag.js) — wird erst nach Consent geladen, siehe js/script.js -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T8ESP5R6HR');
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied'
+  });
+  window.CF_GA_ID = 'G-T8ESP5R6HR';
 </script>
 <title>Chinesische Flagge — Bedeutung, Geschichte &amp; Farben</title>
 <meta name="description" content="Die chinesische Flagge erklärt: Bedeutung der fünf Sterne, Geschichte, offizielle Farben und Proportionen — plus 33 Grafiken als kostenloser Download.">
@@ -628,9 +631,18 @@
     <p>Dies ist eine unabhängige, inoffizielle Informationswebsite über die Flagge der Volksrepublik China. Sie steht in keiner Verbindung zu einer Regierung und wird von keiner Regierung unterstützt oder betrieben.</p>
     <p class="footer-meta">
       <span>© <span id="year"></span> China-Flag.cn</span>
+      <button type="button" id="consentSettings" class="consent-settings">Cookie-Einstellungen</button>
     </p>
   </div>
 </footer>
+
+<div class="consent-banner" id="consentBanner" hidden>
+  <p>Wir möchten mit Google Analytics messen, wie diese Seite genutzt wird. Statistik-Cookies werden nur gesetzt, wenn du zustimmst.</p>
+  <div class="consent-actions">
+    <button type="button" id="consentAccept" class="consent-btn consent-accept">Akzeptieren</button>
+    <button type="button" id="consentDecline" class="consent-btn consent-decline">Ablehnen</button>
+  </div>
+</div>
 
 <script src="/js/script.js"></script>
 </body>

@@ -88,6 +88,12 @@ DATA = {
         "svg": "Télécharger « {name} » en SVG",
         "png": "Télécharger « {name} » en PNG",
     },
+    "consent": {
+        "text": "Nous souhaitons mesurer l'utilisation de ce site avec Google Analytics. Les cookies statistiques ne sont déposés qu'avec votre accord.",
+        "accept": "Accepter",
+        "decline": "Refuser",
+        "settings": "Paramètres des cookies",
+    },
     "faq": {
         "title": "Questions Fréquentes",
         "items": [

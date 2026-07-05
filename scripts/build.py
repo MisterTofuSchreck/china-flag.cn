@@ -230,6 +230,7 @@ def render_page(lang):
     meta = LANG_META[lang]
     hero = c["hero"]
     etiquette = c["etiquette"]
+    consent = c["consent"]
     footer = c["footer"]
 
     hreflangs = "\n".join(
@@ -244,14 +245,17 @@ def render_page(lang):
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T8ESP5R6HR"></script>
+<!-- Google tag (gtag.js) — wird erst nach Consent geladen, siehe js/script.js -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){{dataLayer.push(arguments);}}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T8ESP5R6HR');
+  gtag('consent', 'default', {{
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied'
+  }});
+  window.CF_GA_ID = 'G-T8ESP5R6HR';
 </script>
 <title>{esc(c['meta']['title'])}</title>
 <meta name="description" content="{esc(c['meta']['description'])}">
@@ -363,9 +367,18 @@ def render_page(lang):
     <p>{esc(footer['disclaimer'])}</p>
     <p class="footer-meta">
       <span>© <span id="year"></span> China-Flag.cn</span>
+      <button type="button" id="consentSettings" class="consent-settings">{esc(consent['settings'])}</button>
     </p>
   </div>
 </footer>
+
+<div class="consent-banner" id="consentBanner" hidden>
+  <p>{esc(consent['text'])}</p>
+  <div class="consent-actions">
+    <button type="button" id="consentAccept" class="consent-btn consent-accept">{esc(consent['accept'])}</button>
+    <button type="button" id="consentDecline" class="consent-btn consent-decline">{esc(consent['decline'])}</button>
+  </div>
+</div>
 
 <script src="/js/script.js"></script>
 </body>

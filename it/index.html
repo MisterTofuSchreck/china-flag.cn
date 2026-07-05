@@ -4,14 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T8ESP5R6HR"></script>
+<!-- Google tag (gtag.js) — wird erst nach Consent geladen, siehe js/script.js -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T8ESP5R6HR');
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied'
+  });
+  window.CF_GA_ID = 'G-T8ESP5R6HR';
 </script>
 <title>Bandiera Cinese — Significato, Storia e Colori</title>
 <meta name="description" content="La bandiera cinese spiegata: significato delle cinque stelle, storia, colori e proporzioni ufficiali, più 33 illustrazioni da scaricare gratis.">
@@ -628,9 +631,18 @@
     <p>Questo è un sito web informativo indipendente e non ufficiale sulla bandiera della Repubblica Popolare Cinese. Non è affiliato, sostenuto o gestito per conto di alcun governo.</p>
     <p class="footer-meta">
       <span>© <span id="year"></span> China-Flag.cn</span>
+      <button type="button" id="consentSettings" class="consent-settings">Impostazioni cookie</button>
     </p>
   </div>
 </footer>
+
+<div class="consent-banner" id="consentBanner" hidden>
+  <p>Vorremmo misurare l'utilizzo di questo sito con Google Analytics. I cookie statistici vengono impostati solo con il tuo consenso.</p>
+  <div class="consent-actions">
+    <button type="button" id="consentAccept" class="consent-btn consent-accept">Accetta</button>
+    <button type="button" id="consentDecline" class="consent-btn consent-decline">Rifiuta</button>
+  </div>
+</div>
 
 <script src="/js/script.js"></script>
 </body>

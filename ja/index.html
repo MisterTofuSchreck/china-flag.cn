@@ -4,14 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T8ESP5R6HR"></script>
+<!-- Google tag (gtag.js) — wird erst nach Consent geladen, siehe js/script.js -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T8ESP5R6HR');
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied'
+  });
+  window.CF_GA_ID = 'G-T8ESP5R6HR';
 </script>
 <title>中国国旗 — 意味・歴史・五星紅旗の基礎知識</title>
 <meta name="description" content="中国国旗を徹底解説:五つの星の意味、五星紅旗の歴史、公式の色と比率、掲揚のマナー、国旗モチーフのイラスト。">
@@ -628,9 +631,18 @@
     <p>本サイトは中華人民共和国の国旗に関する独立した非公式の情報サイトであり、いかなる政府とも関係がなく、その承認や運営を受けたものでもありません。</p>
     <p class="footer-meta">
       <span>© <span id="year"></span> China-Flag.cn</span>
+      <button type="button" id="consentSettings" class="consent-settings">Cookie設定</button>
     </p>
   </div>
 </footer>
+
+<div class="consent-banner" id="consentBanner" hidden>
+  <p>当サイトでは、Google Analyticsを使って利用状況を測定したいと考えています。統計Cookieは、同意いただいた場合にのみ設定されます。</p>
+  <div class="consent-actions">
+    <button type="button" id="consentAccept" class="consent-btn consent-accept">同意する</button>
+    <button type="button" id="consentDecline" class="consent-btn consent-decline">拒否する</button>
+  </div>
+</div>
 
 <script src="/js/script.js"></script>
 </body>

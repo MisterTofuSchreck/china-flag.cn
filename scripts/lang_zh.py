@@ -48,6 +48,7 @@ DATA = {
         "intro": "五星红旗的元素不仅限于旗杆之上——在这里,我们用国旗本身的红与金,重新演绎出日常物品、人气动物与著名景点的造型。",
         "groups": {"objects": "日常物品", "animals": "中国人气动物", "landmarks": "地标名胜与中国地图"},
         "disclaimer": "以上为本站制作的示意图,并非官方或授权产品,亦非官方地图。",
+        "license": "图片许可:本页所有国旗插画均可免费下载和使用,包括商业用途。欢迎注明出处(链接至 china-flag.cn),但并非必须。",
         "items": {
             "box": {"text": "包裹造型的中国国旗", "slug": "qizhi-peise-de-baoguo"},
             "car": {"text": "汽车造型的中国国旗", "slug": "qizhi-peise-de-qiche"},

@@ -48,6 +48,7 @@ DATA = {
         "intro": "Le motif des cinq étoiles n'est pas réservé aux mâts — ici, il est réinventé sous forme d'objets du quotidien, d'animaux appréciés et de sites célèbres, tous représentés dans le rouge et l'or du drapeau.",
         "groups": {"objects": "Objets du Quotidien", "animals": "Animaux Populaires en Chine", "landmarks": "Monuments & la Carte de la Chine"},
         "disclaimer": "Illustrations créées pour ce site — il ne s'agit pas de produits officiels ou sous licence, ni d'une carte officielle.",
+        "license": "Licence des images : toutes les illustrations de drapeaux de cette page peuvent être téléchargées et utilisées gratuitement, y compris à des fins commerciales. Une attribution (lien vers china-flag.cn) est appréciée mais pas obligatoire.",
         "items": {
             "box": {"text": "Drapeau Chinois en Forme de Paquet", "slug": "drapeau-chinois-paquet"},
             "car": {"text": "Drapeau Chinois en Forme de Voiture", "slug": "drapeau-chinois-voiture"},

@@ -48,6 +48,7 @@ DATA = {
         "intro": "El motivo de las cinco estrellas no es solo para los mástiles — aquí se reinventa como objetos cotidianos, animales populares y lugares famosos, todos representados en el rojo y dorado propios de la bandera.",
         "groups": {"objects": "Objetos Cotidianos", "animals": "Animales Populares en China", "landmarks": "Monumentos y el Mapa de China"},
         "disclaimer": "Representaciones ilustrativas creadas para este sitio — no son productos oficiales o con licencia, ni un mapa oficial.",
+        "license": "Licencia de imágenes: todas las ilustraciones de banderas de esta página pueden descargarse y utilizarse gratuitamente, incluso con fines comerciales. Se agradece la atribución (un enlace a china-flag.cn), pero no es obligatoria.",
         "items": {
             "box": {"text": "Bandera China con Forma de Paquete", "slug": "bandera-china-paquete"},
             "car": {"text": "Bandera China con Forma de Coche", "slug": "bandera-china-coche"},

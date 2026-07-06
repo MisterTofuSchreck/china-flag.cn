@@ -48,6 +48,7 @@ DATA = {
         "intro": "Femstjärnemotivet är inte bara till för flaggstänger — här återges det som vardagsföremål, populära djur och kända sevärdheter, alla i flaggans egna färger rött och guld.",
         "groups": {"objects": "Vardagsföremål", "animals": "Populära Djur i Kina", "landmarks": "Sevärdheter och Kinas Karta"},
         "disclaimer": "Illustrativa bilder skapade för denna sida — inga officiella eller licensierade produkter, och ingen officiell karta.",
+        "license": "Bildlicens: Alla flaggillustrationer på den här sidan får laddas ner och användas gratis, även kommersiellt. Källhänvisning (en länk till china-flag.cn) uppskattas men krävs inte.",
         "items": {
             "box": {"text": "Kinesisk Flagga i Form av ett Paket", "slug": "kinesisk-flagga-paket"},
             "car": {"text": "Kinesisk Flagga i Form av en Bil", "slug": "kinesisk-flagga-bil"},

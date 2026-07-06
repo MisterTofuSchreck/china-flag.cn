@@ -48,6 +48,7 @@ DATA = {
         "intro": "The five-star motif isn't just for flagpoles — here it's reimagined as everyday shapes, favorite animals and famous sights, all rendered in the flag's own red and gold.",
         "groups": {"objects": "Everyday Objects", "animals": "Animals Popular in China", "landmarks": "Landmarks & the Map of China"},
         "disclaimer": "Illustrative renderings created for this site — not official or licensed products, and not an official map.",
+        "license": "Image license: All flag illustrations on this page may be downloaded and used free of charge, including for commercial purposes. Attribution (a link to china-flag.cn) is appreciated but not required.",
         "items": {
             "box": {"text": "Chinese Flag as a Package", "slug": "chinese-flag-shaped-shipping-box"},
             "car": {"text": "Chinese Flag as a Car", "slug": "chinese-flag-shaped-car"},

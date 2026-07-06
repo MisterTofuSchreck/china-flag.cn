@@ -48,6 +48,7 @@ DATA = {
         "intro": "Il motivo delle cinque stelle non è solo per i pennoni — qui viene reinterpretato come oggetti quotidiani, animali amati e luoghi famosi, tutti resi nel rosso e oro propri della bandiera.",
         "groups": {"objects": "Oggetti Quotidiani", "animals": "Animali Popolari in Cina", "landmarks": "Monumenti e la Mappa della Cina"},
         "disclaimer": "Rappresentazioni illustrative create per questo sito — non sono prodotti ufficiali o su licenza, né una mappa ufficiale.",
+        "license": "Licenza delle immagini: tutte le illustrazioni di bandiere di questa pagina possono essere scaricate e utilizzate gratuitamente, anche per scopi commerciali. L'attribuzione (un link a china-flag.cn) è gradita ma non obbligatoria.",
         "items": {
             "box": {"text": "Bandiera Cinese a Forma di Pacco", "slug": "bandiera-cinese-pacco"},
             "car": {"text": "Bandiera Cinese a Forma di Auto", "slug": "bandiera-cinese-auto"},

@@ -48,6 +48,7 @@ DATA = {
         "intro": "O motivo das cinco estrelas não é só para mastros — aqui é reinventado como objetos do quotidiano, animais populares e locais famosos, todos representados no vermelho e dourado da bandeira.",
         "groups": {"objects": "Objetos do Quotidiano", "animals": "Animais Populares na China", "landmarks": "Monumentos e o Mapa da China"},
         "disclaimer": "Representações ilustrativas criadas para este site — não são produtos oficiais ou licenciados, nem um mapa oficial.",
+        "license": "Licença das imagens: todas as ilustrações de bandeiras desta página podem ser descarregadas e utilizadas gratuitamente, inclusive para fins comerciais. A atribuição (um link para china-flag.cn) é apreciada, mas não obrigatória.",
         "items": {
             "box": {"text": "Bandeira Chinesa em Forma de Pacote", "slug": "bandeira-chinesa-pacote"},
             "car": {"text": "Bandeira Chinesa em Forma de Carro", "slug": "bandeira-chinesa-carro"},

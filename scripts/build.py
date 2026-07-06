@@ -159,6 +159,7 @@ def gallery_section(lang):
       <p class="section-intro">{esc(c['intro'])}</p>
       {groups_html}
       <p class="fine-print centered">{esc(c['disclaimer'])}</p>
+      <p class="fine-print centered" id="license">{esc(c['license'])}</p>
     </div>
   </section>"""
 
@@ -214,6 +215,8 @@ def images_jsonld(lang):
                 "creator": {"@type": "Organization", "name": "China-Flag.cn"},
                 "creditText": "China-Flag.cn",
                 "copyrightNotice": "China-Flag.cn",
+                "license": f"{SITE_URL}/{lang}/#license",
+                "acquireLicensePage": f"{SITE_URL}/{lang}/#license",
             },
         })
     data = {

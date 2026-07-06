@@ -48,6 +48,7 @@ DATA = {
         "intro": "Motyw pięciu gwiazd nie jest zarezerwowany tylko dla masztów — tutaj zostaje na nowo odkryty jako przedmioty codzienne, popularne zwierzęta i słynne zabytki, wszystkie przedstawione w czerwieni i złocie samej flagi.",
         "groups": {"objects": "Przedmioty Codzienne", "animals": "Popularne Zwierzęta w Chinach", "landmarks": "Zabytki i Mapa Chin"},
         "disclaimer": "Ilustracje stworzone na potrzeby tej strony — nie są to oficjalne ani licencjonowane produkty, ani oficjalna mapa.",
+        "license": "Licencja obrazów: wszystkie ilustracje flag na tej stronie można bezpłatnie pobierać i wykorzystywać, również komercyjnie. Podanie źródła (link do china-flag.cn) jest mile widziane, ale nieobowiązkowe.",
         "items": {
             "box": {"text": "Flaga Chin jako Paczka", "slug": "flaga-chin-paczka"},
             "car": {"text": "Flaga Chin jako Samochód", "slug": "flaga-chin-samochod"},

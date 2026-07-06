@@ -48,6 +48,7 @@ DATA = {
         "intro": "Das Fünf-Sterne-Motiv ist nicht nur für den Fahnenmast gedacht — hier erscheint es neu interpretiert als Alltagsgegenstände, beliebte Tiere und berühmte Sehenswürdigkeiten, alle in den Farben Rot und Gold der Flagge.",
         "groups": {"objects": "Alltagsgegenstände", "animals": "In China beliebte Tiere", "landmarks": "Wahrzeichen & die Karte Chinas"},
         "disclaimer": "Illustrative Darstellungen für diese Website — keine offiziellen oder lizenzierten Produkte, und keine offizielle Karte.",
+        "license": "Bildlizenz: Alle Flaggen-Illustrationen auf dieser Seite dürfen kostenlos heruntergeladen und verwendet werden, auch kommerziell. Eine Quellenangabe (Link auf china-flag.cn) ist willkommen, aber nicht erforderlich.",
         "items": {
             "box": {"text": "Chinesische Flagge als Paket", "slug": "chinesische-flagge-paket"},
             "car": {"text": "Chinesische Flagge als Auto", "slug": "chinesische-flagge-auto"},

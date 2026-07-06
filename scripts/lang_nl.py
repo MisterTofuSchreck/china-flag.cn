@@ -48,6 +48,7 @@ DATA = {
         "intro": "Het vijfsterrenmotief is niet alleen voor vlaggenmasten — hier wordt het opnieuw vormgegeven als alledaagse voorwerpen, geliefde dieren en beroemde bezienswaardigheden, allemaal in het rood en goud van de vlag zelf.",
         "groups": {"objects": "Alledaagse Voorwerpen", "animals": "Populaire Dieren in China", "landmarks": "Bezienswaardigheden & de Kaart van China"},
         "disclaimer": "Illustratieve weergaven gemaakt voor deze site — geen officiële of gelicentieerde producten, en geen officiële kaart.",
+        "license": "Afbeeldingslicentie: alle vlagillustraties op deze pagina mogen gratis worden gedownload en gebruikt, ook commercieel. Bronvermelding (een link naar china-flag.cn) wordt gewaardeerd maar is niet verplicht.",
         "items": {
             "box": {"text": "Chinese Vlag in de Vorm van een Pakket", "slug": "chinese-vlag-pakket"},
             "car": {"text": "Chinese Vlag in de Vorm van een Auto", "slug": "chinese-vlag-auto"},

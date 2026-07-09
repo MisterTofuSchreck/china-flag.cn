@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="t">
+  <title id="t">中華民国の五色旗(1912–1928)</title>
+  <ellipse cx="200" cy="345" rx="150" ry="14" fill="#000" opacity="0.1"/>
+
+  <g>
+    <rect x="50" y="100" width="300" height="40" fill="#DE2910"/>
+    <rect x="50" y="140" width="300" height="40" fill="#FFDE00"/>
+    <rect x="50" y="180" width="300" height="40" fill="#2B6CB0"/>
+    <rect x="50" y="220" width="300" height="40" fill="#FFFFFF"/>
+    <rect x="50" y="260" width="300" height="40" fill="#1c1a17"/>
+  </g>
+  <rect x="50" y="100" width="300" height="200" rx="0" fill="none" stroke="#00000022" stroke-width="1"/>
+</svg>

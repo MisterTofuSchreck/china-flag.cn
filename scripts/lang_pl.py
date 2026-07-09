@@ -5,7 +5,7 @@ DATA = {
         "description": "Flaga Chin wyjaśniona: znaczenie pięciu gwiazd, historia czerwonej flagi z pięcioma gwiazdami, oficjalne kolory i proporcje, etykieta flagowania oraz ilustracje tematyczne.",
     },
     "brand": "Flaga Chin",
-    "nav": {"meaning": "Znaczenie", "history": "Historia", "data": "Dane Techniczne", "gallery": "Galeria", "etiquette": "Etykieta", "faq": "FAQ"},
+    "nav": {"meaning": "Znaczenie", "history": "Historia", "data": "Dane Techniczne", "gallery": "Galeria", "etiquette": "Etykieta", "faq": "FAQ", "historic": "Flagi historyczne", "coloring": "Kolorowanka"},
     "hero": {
         "flag_alt": "Flaga Chińskiej Republiki Ludowej — czerwona flaga z pięcioma gwiazdami",
         "title": "Czerwona Flaga z Pięcioma Gwiazdami",
@@ -88,6 +88,47 @@ DATA = {
     "download": {
         "svg": "Pobierz {name} jako SVG",
         "png": "Pobierz {name} jako PNG",
+    },
+    "historical": {
+        "title": "Historyczne flagi Chin",
+        "intro": "Przed czerwoną flagą z pięcioma gwiazdami nad Chinami powiewały zupełnie inne sztandary. Te stylizowane ilustracje pokazują trzech najbardziej znanych poprzedników.",
+        "items": {
+            "qing": {
+                "name": "Flaga smoka dynastii Qing",
+                "period": "1889–1912",
+                "text": "Ostatnia dynastia cesarska używała złotożółtej flagi z lazurowym smokiem goniącym czerwoną perłę — żółć była kolorem cesarza.",
+                "alt": "Flaga smoka dynastii Qing (1889–1912) — stylizowana ilustracja",
+                "slug": "historyczna-flaga-chin-smok-qing",
+            },
+            "fivecolor": {
+                "name": "Flaga pięciu kolorów",
+                "period": "1912–1928",
+                "text": "Pierwsza flaga Republiki Chińskiej: pięć pasów symbolizujących pięć wielkich ludów Chin — Han, Mandżurów, Mongołów, Hui i Tybetańczyków.",
+                "alt": "Flaga pięciu kolorów Republiki Chińskiej (1912–1928)",
+                "slug": "historyczna-flaga-chin-piec-kolorow",
+            },
+            "bluesky": {
+                "name": "Błękitne niebo, białe słońce, czerwona ziemia",
+                "period": "1928–1949",
+                "text": "Flaga narodowa ery republikańskiej na kontynencie do 1949 roku, z białym słońcem o dwunastu promieniach na błękitnym kantonie.",
+                "alt": "Flaga ery Republiki Chińskiej (1928–1949) z błękitnym kantonem i białym słońcem",
+                "slug": "historyczna-flaga-chin-blekitne-niebo-biale-slonce",
+            },
+        },
+    },
+    "coloring": {
+        "title": "Kolorowanka",
+        "text": "Kontur flagi Chin do wydrukowania i pokolorowania — idealny do szkoły lub na deszczowe popołudnie. Wskazówka: dużą gwiazdę i cztery małe koloruje się na złotożółto na czerwonym tle.",
+        "caption": "Flaga Chin jako kolorowanka",
+        "alt": "Kolorowanka z flagą Chin — kontur czerwonej flagi z pięcioma gwiazdami do druku",
+        "slug": "flaga-chin-kolorowanka",
+    },
+    "emoji": {
+        "title": "Emoji flagi Chin",
+        "text": "Emoji flagi Chin 🇨🇳 składa się z dwóch regionalnych symboli wskaźnikowych C (U+1F1E8) i N (U+1F1F3). Skopiuj je tutaj jednym kliknięciem.",
+        "copy": "Kopiuj emoji",
+        "copied": "Skopiowano!",
+        "note": "W niektórych systemach Windows emoji wyświetla się jako litery „CN” — na telefonach i większości innych urządzeń pojawia się flaga.",
     },
     "consent": {
         "text": "Chcielibyśmy mierzyć korzystanie z tej strony za pomocą Google Analytics. Statystyczne pliki cookie są zapisywane tylko za Twoją zgodą.",

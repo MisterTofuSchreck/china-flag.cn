@@ -15,7 +15,10 @@ BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from content import LANGS, LANG_META, GALLERY_ITEMS, GALLERY_GROUPS, CONTENT
+from content import (
+    LANGS, LANG_META, GALLERY_ITEMS, GALLERY_GROUPS, CONTENT,
+    HISTORICAL_ITEMS, COLORING_BASE_FILE,
+)
 
 SITE_URL = "https://www.china-flag.cn"
 
@@ -30,7 +33,9 @@ def nav_links(lang):
       <a href="#gallery">{esc(c['gallery'])}</a>
       <a href="#meaning">{esc(c['meaning'])}</a>
       <a href="#history">{esc(c['history'])}</a>
+      <a href="#historic">{esc(c['historic'])}</a>
       <a href="#data">{esc(c['data'])}</a>
+      <a href="#coloring">{esc(c['coloring'])}</a>
       <a href="#etiquette">{esc(c['etiquette'])}</a>
       <a href="#faq">{esc(c['faq'])}</a>"""
 
@@ -96,7 +101,7 @@ def data_section(lang):
     col = c["colors"]
     orient = c["orientation"]
     return f"""
-  <section id="data" class="section section-alt">
+  <section id="data" class="section">
     <div class="container">
       <h2 class="section-title">{esc(c['title'])}</h2>
       <div class="data-grid">
@@ -124,10 +129,38 @@ def data_section(lang):
   </section>"""
 
 
+def font_head(lang):
+    """Per-language font loading: Inter always, plus the language's script
+    font from LANG_META['gfont'] if set. Chinese/Japanese also need the
+    900 weight for the hero headline."""
+    meta = LANG_META[lang]
+    fams = ["Inter:wght@400;500;600;700;800"]
+    gfont = meta.get("gfont")
+    body_style = ""
+    if gfont:
+        weights = "400;500;700;900" if lang in ("zh", "ja") else "400;500;700"
+        fams.append(gfont.replace(" ", "+") + f":wght@{weights}")
+        body_style = f"\n<style>body{{font-family:'{gfont}','Inter',sans-serif;}}</style>"
+    url = "https://fonts.googleapis.com/css2?" + "&".join("family=" + f for f in fams) + "&display=swap"
+    return f'<link href="{url}" rel="stylesheet">' + body_style
+
+
+def download_row(lang, slug, name, png_w=None, png_h=None):
+    """Shared SVG/PNG download row used by gallery, historic and coloring sections."""
+    dl = CONTENT[lang]["download"]
+    svg_label = esc(dl["svg"].format(name=name))
+    png_label = esc(dl["png"].format(name=name))
+    size_attrs = f' data-w="{png_w}" data-h="{png_h}"' if png_w and png_h else ""
+    return f"""<div class="gallery-downloads">
+            <a class="download-link" href="/assets/{lang}/{slug}.svg" download="{slug}.svg" aria-label="{svg_label}">SVG</a>
+            <span class="download-sep" aria-hidden="true">&middot;</span>
+            <button type="button" class="download-link download-png" data-src="/assets/{lang}/{slug}.svg" data-filename="{slug}.png"{size_attrs} aria-label="{png_label}">PNG</button>
+          </div>"""
+
+
 def gallery_section(lang):
     c = CONTENT[lang]["gallery"]
     gi = c["items"]
-    dl = CONTENT[lang]["download"]
     groups_html = ""
     for group_key, group_title in GALLERY_GROUPS:
         figures = ""
@@ -136,17 +169,11 @@ def gallery_section(lang):
                 continue
             item = gi[key]
             slug = item["slug"]
-            svg_label = esc(dl["svg"].format(name=item["text"]))
-            png_label = esc(dl["png"].format(name=item["text"]))
             figures += f"""
         <figure class="gallery-item">
           <img src="/assets/{lang}/{slug}.svg" width="400" height="400" alt="{esc(item['text'])}" loading="lazy">
           <figcaption>{esc(item['text'])}</figcaption>
-          <div class="gallery-downloads">
-            <a class="download-link" href="/assets/{lang}/{slug}.svg" download="{slug}.svg" aria-label="{svg_label}">SVG</a>
-            <span class="download-sep" aria-hidden="true">&middot;</span>
-            <button type="button" class="download-link download-png" data-src="/assets/{lang}/{slug}.svg" data-filename="{slug}.png" aria-label="{png_label}">PNG</button>
-          </div>
+          {download_row(lang, slug, item['text'])}
         </figure>"""
         groups_html += f"""
       <h3 class="gallery-group-title">{esc(c['groups'][group_key])}</h3>
@@ -164,6 +191,63 @@ def gallery_section(lang):
   </section>"""
 
 
+def historic_section(lang):
+    c = CONTENT[lang]["historical"]
+    figures = ""
+    for key in HISTORICAL_ITEMS:
+        it = c["items"][key]
+        slug = it["slug"]
+        figures += f"""
+        <figure class="gallery-item">
+          <img src="/assets/{lang}/{slug}.svg" width="400" height="400" alt="{esc(it['alt'])}" loading="lazy">
+          <figcaption>{esc(it['name'])} · {esc(it['period'])}</figcaption>
+          <p class="historic-text">{esc(it['text'])}</p>
+          {download_row(lang, slug, it['name'])}
+        </figure>"""
+    return f"""
+  <section id="historic" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title">{esc(c['title'])}</h2>
+      <p class="section-intro">{esc(c['intro'])}</p>
+      <div class="gallery-grid">{figures}
+      </div>
+    </div>
+  </section>"""
+
+
+def coloring_section(lang):
+    c = CONTENT[lang]["coloring"]
+    slug = c["slug"]
+    return f"""
+  <section id="coloring" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title">{esc(c['title'])}</h2>
+      <p class="section-intro">{esc(c['text'])}</p>
+      <figure class="gallery-item coloring-item">
+        <img src="/assets/{lang}/{slug}.svg" width="900" height="600" alt="{esc(c['alt'])}" loading="lazy">
+        <figcaption>{esc(c['caption'])}</figcaption>
+        {download_row(lang, slug, c['caption'], png_w=1200, png_h=800)}
+      </figure>
+    </div>
+  </section>"""
+
+
+def emoji_section(lang):
+    c = CONTENT[lang]["emoji"]
+    return f"""
+  <section id="emoji" class="section">
+    <div class="container">
+      <h2 class="section-title">{esc(c['title'])}</h2>
+      <p class="section-intro">{esc(c['text'])}</p>
+      <div class="emoji-box">
+        <span class="emoji-char">🇨🇳</span>
+        <button type="button" class="emoji-copy" id="emojiCopy" data-copied="{esc(c['copied'])}">{esc(c['copy'])}</button>
+      </div>
+      <p class="fine-print centered">{esc(c['note'])}</p>
+    </div>
+  </section>"""
+
+
 def faq_section(lang):
     c = CONTENT[lang]["faq"]
     items = ""
@@ -174,7 +258,7 @@ def faq_section(lang):
         <p>{esc(it['a'])}</p>
       </details>"""
     return f"""
-  <section id="faq" class="section section-alt">
+  <section id="faq" class="section">
     <div class="container faq-container">
       <h2 class="section-title">{esc(c['title'])}</h2>{items}
     </div>
@@ -198,19 +282,29 @@ def faq_jsonld(lang):
     return json.dumps(data, ensure_ascii=False, indent=1)
 
 
+def downloadable_images(lang):
+    """(name, slug) pairs of every downloadable image on a language page:
+    33 gallery motifs, the historical flags and the coloring page."""
+    c = CONTENT[lang]
+    pairs = [(c["gallery"]["items"][k]["text"], c["gallery"]["items"][k]["slug"])
+             for k in GALLERY_ITEMS]
+    pairs += [(c["historical"]["items"][k]["name"], c["historical"]["items"][k]["slug"])
+              for k in HISTORICAL_ITEMS]
+    pairs.append((c["coloring"]["caption"], c["coloring"]["slug"]))
+    return pairs
+
+
 def images_jsonld(lang):
     g = CONTENT[lang]["gallery"]
-    gi = g["items"]
     entries = []
-    for pos, key in enumerate(GALLERY_ITEMS, 1):
-        it = gi[key]
+    for pos, (name, slug) in enumerate(downloadable_images(lang), 1):
         entries.append({
             "@type": "ListItem",
             "position": pos,
             "item": {
                 "@type": "ImageObject",
-                "name": it["text"],
-                "contentUrl": f"{SITE_URL}/assets/{lang}/{it['slug']}.svg",
+                "name": name,
+                "contentUrl": f"{SITE_URL}/assets/{lang}/{slug}.svg",
                 "encodingFormat": "image/svg+xml",
                 "creator": {"@type": "Organization", "name": "China-Flag.cn"},
                 "creditText": "China-Flag.cn",
@@ -286,7 +380,7 @@ def render_page(lang):
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;700;900&family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Sans+Arabic:wght@400;500;700&family=Noto+Sans+Devanagari:wght@400;500;700&display=swap" rel="stylesheet">
+{font_head(lang)}
 <link rel="stylesheet" href="/css/style.css">
 
 <script type="application/ld+json">
@@ -354,9 +448,12 @@ def render_page(lang):
 {gallery_section(lang)}
 {meaning_section(lang)}
 {history_section(lang)}
+{historic_section(lang)}
 {data_section(lang)}
+{coloring_section(lang)}
+{emoji_section(lang)}
 
-  <section id="etiquette" class="section">
+  <section id="etiquette" class="section section-alt">
     <div class="container">
       <h2 class="section-title">{esc(etiquette['title'])}</h2>
       <p>{esc(etiquette['text'])}</p>
@@ -418,23 +515,33 @@ def build_pages():
         print(f"wrote /{lang}/index.html")
 
 
+def copy_localized_svg(src_assets, outdir, base_file, title, slug):
+    with open(os.path.join(src_assets, base_file), "r", encoding="utf-8") as f:
+        svg = f.read()
+    svg = re.sub(r"(<title id=\"t\">).*?(</title>)", lambda m: m.group(1) + title + m.group(2), svg, count=1, flags=re.S)
+    with open(os.path.join(outdir, slug + ".svg"), "w", encoding="utf-8") as f:
+        f.write(svg)
+
+
 def build_images():
     src_assets = os.path.join(BASE, "assets")
     for lang in LANGS:
         outdir = os.path.join(src_assets, lang)
         os.makedirs(outdir, exist_ok=True)
-        gi = CONTENT[lang]["gallery"]["items"]
+        c = CONTENT[lang]
+        n = 0
         for key, meta in GALLERY_ITEMS.items():
-            src_file = os.path.join(src_assets, meta["base_file"])
-            with open(src_file, "r", encoding="utf-8") as f:
-                svg = f.read()
-            item = gi[key]
-            new_title = item["text"]
-            svg = re.sub(r"(<title id=\"t\">).*?(</title>)", lambda m: m.group(1) + new_title + m.group(2), svg, count=1, flags=re.S)
-            slug = item["slug"]
-            with open(os.path.join(outdir, slug + ".svg"), "w", encoding="utf-8") as f:
-                f.write(svg)
-        print(f"wrote {len(GALLERY_ITEMS)} images for /{lang}/")
+            item = c["gallery"]["items"][key]
+            copy_localized_svg(src_assets, outdir, meta["base_file"], item["text"], item["slug"])
+            n += 1
+        for key, meta in HISTORICAL_ITEMS.items():
+            item = c["historical"]["items"][key]
+            copy_localized_svg(src_assets, outdir, meta["base_file"], item["alt"], item["slug"])
+            n += 1
+        copy_localized_svg(src_assets, outdir, COLORING_BASE_FILE,
+                           c["coloring"]["alt"], c["coloring"]["slug"])
+        n += 1
+        print(f"wrote {n} images for /{lang}/")
 
 
 def build_root_redirect():
@@ -459,10 +566,9 @@ def build_root_redirect():
 def build_sitemap():
     urls = []
     for lang in LANGS:
-        gi = CONTENT[lang]["gallery"]["items"]
         images = "\n".join(
-            f'    <image:image>\n      <image:loc>{SITE_URL}/assets/{lang}/{gi[key]["slug"]}.svg</image:loc>\n      <image:title>{esc(gi[key]["text"])}</image:title>\n    </image:image>'
-            for key in GALLERY_ITEMS
+            f'    <image:image>\n      <image:loc>{SITE_URL}/assets/{lang}/{slug}.svg</image:loc>\n      <image:title>{esc(name)}</image:title>\n    </image:image>'
+            for name, slug in downloadable_images(lang)
         )
         alt_links = "\n".join(
             f'    <xhtml:link rel="alternate" hreflang="{LANG_META[code]["html_lang"]}" href="{SITE_URL}/{code}/"/>'
@@ -492,7 +598,38 @@ def build_sitemap():
     print("wrote sitemap.xml")
 
 
+def validate_content():
+    """Every language must define exactly the same (nested) keys as English.
+    Fails the build on missing or extra keys so no language can silently
+    fall out of sync with the content structure."""
+    def keys_of(d, prefix=""):
+        out = set()
+        for k, v in d.items():
+            path = f"{prefix}.{k}" if prefix else str(k)
+            out.add(path)
+            if isinstance(v, dict):
+                out |= keys_of(v, path)
+        return out
+
+    ref = keys_of(CONTENT["en"])
+    problems = []
+    for lang in LANGS:
+        got = keys_of(CONTENT[lang])
+        missing = ref - got
+        extra = got - ref
+        if missing:
+            problems.append(f"[{lang}] fehlt: {', '.join(sorted(missing)[:8])}")
+        if extra:
+            problems.append(f"[{lang}] ueberzaehlig: {', '.join(sorted(extra)[:8])}")
+    if problems:
+        for p in problems:
+            print("VALIDIERUNG:", p)
+        raise SystemExit("Content-Validierung fehlgeschlagen — Build abgebrochen.")
+    print(f"content ok: {len(LANGS)} Sprachen strukturgleich")
+
+
 if __name__ == "__main__":
+    validate_content()
     build_pages()
     build_images()
     build_root_redirect()

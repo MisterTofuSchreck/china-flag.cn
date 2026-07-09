@@ -5,7 +5,7 @@ DATA = {
         "description": "La bandiera cinese spiegata: significato delle cinque stelle, storia, colori e proporzioni ufficiali, più 33 illustrazioni da scaricare gratis.",
     },
     "brand": "Bandiera Cinese",
-    "nav": {"meaning": "Significato", "history": "Storia", "data": "Dati Tecnici", "gallery": "Galleria", "etiquette": "Galateo", "faq": "FAQ"},
+    "nav": {"meaning": "Significato", "history": "Storia", "data": "Dati Tecnici", "gallery": "Galleria", "etiquette": "Galateo", "faq": "FAQ", "historic": "Bandiere storiche", "coloring": "Da colorare"},
     "hero": {
         "flag_alt": "Bandiera della Repubblica Popolare Cinese — la bandiera rossa a cinque stelle",
         "title": "La Bandiera Rossa a Cinque Stelle",
@@ -88,6 +88,47 @@ DATA = {
     "download": {
         "svg": "Scarica «{name}» in SVG",
         "png": "Scarica «{name}» in PNG",
+    },
+    "historical": {
+        "title": "Bandiere storiche della Cina",
+        "intro": "Prima della bandiera rossa a cinque stelle, la Cina issava vessilli molto diversi. Queste illustrazioni stilizzate mostrano i tre predecessori più noti.",
+        "items": {
+            "qing": {
+                "name": "Bandiera del drago Qing",
+                "period": "1889–1912",
+                "text": "L'ultima dinastia imperiale usava una bandiera giallo oro con un drago azzurro che insegue una perla rossa — il giallo era il colore dell'imperatore.",
+                "alt": "Bandiera del drago della dinastia Qing (1889–1912) — illustrazione stilizzata",
+                "slug": "bandiera-storica-cina-drago-qing",
+            },
+            "fivecolor": {
+                "name": "Bandiera a cinque colori",
+                "period": "1912–1928",
+                "text": "La prima bandiera della Repubblica di Cina: cinque strisce per i cinque grandi popoli della Cina — Han, Manciù, Mongoli, Hui e Tibetani.",
+                "alt": "Bandiera a cinque colori della Repubblica di Cina (1912–1928)",
+                "slug": "bandiera-storica-cina-cinque-colori",
+            },
+            "bluesky": {
+                "name": "Cielo blu, sole bianco, terra rossa",
+                "period": "1928–1949",
+                "text": "La bandiera nazionale dell'era repubblicana sul continente fino al 1949, con un sole bianco a dodici raggi su un cantone blu.",
+                "alt": "Bandiera dell'era della Repubblica di Cina (1928–1949) con cantone blu e sole bianco",
+                "slug": "bandiera-storica-cina-cielo-blu-sole-bianco",
+            },
+        },
+    },
+    "coloring": {
+        "title": "Pagina da colorare",
+        "text": "Un contorno stampabile della bandiera cinese da colorare — ideale per la scuola o un pomeriggio di pioggia. Suggerimento: la stella grande e le quattro piccole si colorano di giallo oro su campo rosso.",
+        "caption": "Bandiera cinese da colorare",
+        "alt": "Pagina da colorare della bandiera cinese — contorno stampabile della bandiera rossa a cinque stelle",
+        "slug": "bandiera-cinese-da-colorare",
+    },
+    "emoji": {
+        "title": "Emoji della bandiera cinese",
+        "text": "L'emoji della bandiera cinese 🇨🇳 è composta dai due simboli indicatori regionali C (U+1F1E8) e N (U+1F1F3). Copiala qui con un clic.",
+        "copy": "Copia emoji",
+        "copied": "Copiato!",
+        "note": "Su alcuni sistemi Windows l'emoji viene mostrata come le lettere «CN» — su telefoni e sulla maggior parte degli altri dispositivi appare la bandiera.",
     },
     "consent": {
         "text": "Vorremmo misurare l'utilizzo di questo sito con Google Analytics. I cookie statistici vengono impostati solo con il tuo consenso.",

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="t">
+  <title id="t">علم التنين لأسرة تشينغ (1889–1912) — رسم توضيحي مبسط</title>
+  <ellipse cx="200" cy="345" rx="150" ry="14" fill="#000" opacity="0.1"/>
+
+  <rect x="50" y="100" width="300" height="200" rx="6" fill="#FFDE00" stroke="#00000022" stroke-width="1"/>
+
+  <circle cx="303" cy="128" r="13" fill="#DE2910"/>
+  <path d="M303,128 q-6,-10 1,-16" fill="none" stroke="#DE2910" stroke-width="3" stroke-linecap="round"/>
+
+  <path d="M100,278 C70,255 76,224 112,217 C148,210 145,188 114,180 C84,172 88,143 122,137 C156,131 172,152 198,141 C216,133 232,138 246,127"
+        fill="none" stroke="#2B6CB0" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M100,278 C82,264 84,244 104,238" fill="none" stroke="#2B6CB0" stroke-width="16" stroke-linecap="round"/>
+
+  <g fill="#1E4E8C">
+    <polygon points="128,206 136,188 144,208"/>
+    <polygon points="112,158 120,140 128,160"/>
+    <polygon points="176,138 184,120 192,141"/>
+  </g>
+
+  <g transform="translate(246,127)">
+    <ellipse cx="12" cy="-4" rx="22" ry="15" fill="#2B6CB0"/>
+    <polygon points="28,-12 52,-18 32,2" fill="#2B6CB0"/>
+    <polygon points="4,-16 10,-34 18,-14" fill="#1E4E8C"/>
+    <circle cx="16" cy="-8" r="4" fill="#FFDE00"/>
+    <path d="M36,-14 L50,-20" stroke="#1E4E8C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M36,-8 L52,-6" stroke="#1E4E8C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

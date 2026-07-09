@@ -5,7 +5,7 @@ DATA = {
         "description": "Kinas flagga förklarad: de fem stjärnornas betydelse, historia, officiella färger och proportioner — plus 33 illustrationer att ladda ner gratis.",
     },
     "brand": "Kinas Flagga",
-    "nav": {"meaning": "Betydelse", "history": "Historia", "data": "Teknisk Data", "gallery": "Galleri", "etiquette": "Etikett", "faq": "FAQ"},
+    "nav": {"meaning": "Betydelse", "history": "Historia", "data": "Teknisk Data", "gallery": "Galleri", "etiquette": "Etikett", "faq": "FAQ", "historic": "Historiska flaggor", "coloring": "Målarbild"},
     "hero": {
         "flag_alt": "Folkrepubliken Kinas flagga — den röda femstjärniga flaggan",
         "title": "Den Röda Femstjärniga Flaggan",
@@ -88,6 +88,47 @@ DATA = {
     "download": {
         "svg": "Ladda ner {name} som SVG",
         "png": "Ladda ner {name} som PNG",
+    },
+    "historical": {
+        "title": "Kinas historiska flaggor",
+        "intro": "Före den röda femstjärniga flaggan vajade helt andra fanor över Kina. Dessa stiliserade illustrationer visar de tre mest kända föregångarna.",
+        "items": {
+            "qing": {
+                "name": "Qingdynastins drakflagga",
+                "period": "1889–1912",
+                "text": "Den sista kejsardynastin förde en guldgul flagga med en azurblå drake som jagar en röd pärla — gult var kejsarens färg.",
+                "alt": "Qingdynastins drakflagga (1889–1912) — stiliserad illustration",
+                "slug": "historisk-kinesisk-flagga-qing-drakflagga",
+            },
+            "fivecolor": {
+                "name": "Femfärgsflaggan",
+                "period": "1912–1928",
+                "text": "Republiken Kinas första flagga: fem ränder för Kinas fem stora folk — han, manchuer, mongoler, hui och tibetaner.",
+                "alt": "Republiken Kinas femfärgsflagga (1912–1928)",
+                "slug": "historisk-kinesisk-flagga-femfargsflaggan",
+            },
+            "bluesky": {
+                "name": "Blå himmel, vit sol, röd jord",
+                "period": "1928–1949",
+                "text": "Nationalflaggan under republikens era på fastlandet fram till 1949, med en vit sol med tolv strålar på ett blått fält i övre hörnet.",
+                "alt": "Flagga från Republiken Kinas era (1928–1949) med blått hörnfält och vit sol",
+                "slug": "historisk-kinesisk-flagga-bla-himmel-vit-sol",
+            },
+        },
+    },
+    "coloring": {
+        "title": "Målarbild",
+        "text": "En utskrivbar kontur av Kinas flagga att färglägga — perfekt för skolan eller en regnig eftermiddag. Tips: den stora stjärnan och de fyra små färgläggs guldgula på rött fält.",
+        "caption": "Kinesisk flagga som målarbild",
+        "alt": "Målarbild av Kinas flagga — utskrivbar kontur av den röda femstjärniga flaggan",
+        "slug": "kinesisk-flagga-malarbild",
+    },
+    "emoji": {
+        "title": "Kinas flagga som emoji",
+        "text": "Kinas flagg-emoji 🇨🇳 består av de två regionala indikatorsymbolerna C (U+1F1E8) och N (U+1F1F3). Kopiera den här med ett klick.",
+        "copy": "Kopiera emoji",
+        "copied": "Kopierad!",
+        "note": "På vissa Windows-system visas emojin som bokstäverna ”CN” — på mobiler och de flesta andra enheter visas flaggan.",
     },
     "consent": {
         "text": "Vi vill mäta hur den här webbplatsen används med Google Analytics. Statistikcookies sätts bara om du godkänner det.",

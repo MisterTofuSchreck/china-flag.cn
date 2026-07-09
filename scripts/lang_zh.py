@@ -5,7 +5,7 @@ DATA = {
         "description": "深入了解中华人民共和国国旗:五颗星的含义、五星红旗的历史、官方颜色与比例、悬挂礼仪,以及国旗主题插画。",
     },
     "brand": "中国国旗",
-    "nav": {"meaning": "含义", "history": "历史", "data": "技术数据", "gallery": "图库", "etiquette": "礼仪", "faq": "常见问题"},
+    "nav": {"meaning": "含义", "history": "历史", "data": "技术数据", "gallery": "图库", "etiquette": "礼仪", "faq": "常见问题", "historic": "历史旗帜", "coloring": "填色图"},
     "hero": {
         "flag_alt": "中华人民共和国国旗——五星红旗",
         "title": "五星红旗",
@@ -88,6 +88,47 @@ DATA = {
     "download": {
         "svg": "下载「{name}」SVG图片",
         "png": "下载「{name}」PNG图片",
+    },
+    "historical": {
+        "title": "中国历史上的旗帜",
+        "intro": "在五星红旗之前,中国曾使用过截然不同的旗帜。以下风格化插画展示了三面最著名的前身旗帜。",
+        "items": {
+            "qing": {
+                "name": "大清黄龙旗",
+                "period": "1889–1912",
+                "text": "中国最后一个王朝使用金黄色旗面,上绘一条追逐红珠的青龙——黄色是皇帝的专属颜色。",
+                "alt": "大清黄龙旗(1889–1912)——风格化插画",
+                "slug": "zhongguo-lishi-qizhi-huanglongqi",
+            },
+            "fivecolor": {
+                "name": "五色旗",
+                "period": "1912–1928",
+                "text": "中华民国的第一面国旗:五条横条代表汉、满、蒙、回、藏五族共和。",
+                "alt": "中华民国五色旗(1912–1928)",
+                "slug": "zhongguo-lishi-qizhi-wuseqi",
+            },
+            "bluesky": {
+                "name": "青天白日满地红",
+                "period": "1928–1949",
+                "text": "1949年以前中国大陆时期使用的国旗,蓝色旗角上绘有白色十二道光芒的太阳。",
+                "alt": "青天白日满地红旗(1928–1949)",
+                "slug": "zhongguo-lishi-qizhi-qingtianbairi",
+            },
+        },
+    },
+    "coloring": {
+        "title": "填色图",
+        "text": "可打印的中国国旗轮廓填色图——适合学校、课堂或雨天的午后。提示:大星和四颗小星涂成金黄色,旗面涂成红色。",
+        "caption": "中国国旗填色图",
+        "alt": "中国国旗填色图——五星红旗的可打印轮廓",
+        "slug": "zhongguo-guoqi-tiansetu",
+    },
+    "emoji": {
+        "title": "中国国旗表情符号",
+        "text": "中国国旗表情符号 🇨🇳 由两个区域指示符号 C(U+1F1E8)和 N(U+1F1F3)组成。点击即可复制。",
+        "copy": "复制表情",
+        "copied": "已复制!",
+        "note": "在部分 Windows 系统上,该表情会显示为字母“CN”——在手机及大多数其他设备上会正常显示为国旗。",
     },
     "consent": {
         "text": "我们希望使用 Google Analytics 统计本站的访问情况。只有在您同意后,才会设置统计 Cookie。",

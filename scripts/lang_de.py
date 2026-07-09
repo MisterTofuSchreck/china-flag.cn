@@ -5,7 +5,7 @@ DATA = {
         "description": "Die chinesische Flagge erklärt: Bedeutung der fünf Sterne, Geschichte, offizielle Farben und Proportionen — plus 33 Grafiken als kostenloser Download.",
     },
     "brand": "China Flagge",
-    "nav": {"meaning": "Bedeutung", "history": "Geschichte", "data": "Technische Daten", "gallery": "Galerie", "etiquette": "Etikette", "faq": "FAQ"},
+    "nav": {"meaning": "Bedeutung", "history": "Geschichte", "data": "Technische Daten", "gallery": "Galerie", "etiquette": "Etikette", "faq": "FAQ", "historic": "Alte Flaggen", "coloring": "Malvorlage"},
     "hero": {
         "flag_alt": "Flagge der Volksrepublik China — die Fünf-Sterne-Rote Flagge",
         "title": "Die Fünf-Sterne-Rote Flagge",
@@ -88,6 +88,47 @@ DATA = {
     "download": {
         "svg": "„{name}“ als SVG herunterladen",
         "png": "„{name}“ als PNG herunterladen",
+    },
+    "historical": {
+        "title": "Historische Flaggen Chinas",
+        "intro": "Vor der Fünf-Sterne-Roten Flagge wehten über China ganz andere Banner. Diese stilisierten Illustrationen zeigen die drei bekanntesten Vorgänger.",
+        "items": {
+            "qing": {
+                "name": "Qing-Drachenflagge",
+                "period": "1889–1912",
+                "text": "Die letzte Kaiserdynastie führte eine goldgelbe Flagge mit einem azurblauen Drachen, der einer roten Perle nachjagt — Gelb war die Farbe des Kaisers.",
+                "alt": "Drachenflagge der Qing-Dynastie (1889–1912) — stilisierte Illustration",
+                "slug": "historische-chinesische-flagge-qing-drachenflagge",
+            },
+            "fivecolor": {
+                "name": "Fünf-Farben-Flagge",
+                "period": "1912–1928",
+                "text": "Die erste Flagge der Republik China: fünf Streifen für die fünf großen Völker Chinas — Han, Mandschu, Mongolen, Hui und Tibeter.",
+                "alt": "Fünf-Farben-Flagge der Republik China (1912–1928)",
+                "slug": "historische-chinesische-flagge-fuenf-farben-flagge",
+            },
+            "bluesky": {
+                "name": "Blauer Himmel, Weiße Sonne, Rote Erde",
+                "period": "1928–1949",
+                "text": "Die Nationalflagge der Republik-Ära auf dem chinesischen Festland bis 1949, mit einer weißen Zwölf-Strahlen-Sonne im blauen Obereck.",
+                "alt": "Flagge der Republik-Ära Chinas (1928–1949) mit blauem Obereck und weißer Sonne",
+                "slug": "historische-chinesische-flagge-blauer-himmel-weisse-sonne",
+            },
+        },
+    },
+    "coloring": {
+        "title": "Malvorlage",
+        "text": "Ein druckbarer Umriss der chinesischen Flagge zum Ausmalen — ideal für Schule, Unterricht oder einen Regennachmittag. Tipp: Der große Stern und die vier kleinen Sterne werden goldgelb auf rotem Grund ausgemalt.",
+        "caption": "Chinesische Flagge als Malvorlage",
+        "alt": "Malvorlage der chinesischen Flagge — druckbarer Umriss der Fünf-Sterne-Roten Flagge",
+        "slug": "chinesische-flagge-malvorlage",
+    },
+    "emoji": {
+        "title": "Chinesische-Flagge-Emoji",
+        "text": "Das China-Flaggen-Emoji 🇨🇳 besteht aus den beiden Regional-Indikator-Symbolen C (U+1F1E8) und N (U+1F1F3). Hier mit einem Klick kopieren.",
+        "copy": "Emoji kopieren",
+        "copied": "Kopiert!",
+        "note": "Auf manchen Windows-Systemen erscheint statt der Flagge nur „CN“ — auf Smartphones und den meisten anderen Geräten wird die Flagge angezeigt.",
     },
     "consent": {
         "text": "Wir möchten mit Google Analytics messen, wie diese Seite genutzt wird. Statistik-Cookies werden nur gesetzt, wenn du zustimmst.",

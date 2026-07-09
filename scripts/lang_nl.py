@@ -5,7 +5,7 @@ DATA = {
         "description": "De Chinese vlag uitgelegd: betekenis van de vijf sterren, geschiedenis van de rode vijfsterrenvlag, officiële kleuren en verhoudingen, vlagetiquette en vlagthema-illustraties.",
     },
     "brand": "Chinese Vlag",
-    "nav": {"meaning": "Betekenis", "history": "Geschiedenis", "data": "Technische Gegevens", "gallery": "Galerij", "etiquette": "Etiquette", "faq": "FAQ"},
+    "nav": {"meaning": "Betekenis", "history": "Geschiedenis", "data": "Technische Gegevens", "gallery": "Galerij", "etiquette": "Etiquette", "faq": "FAQ", "historic": "Historische vlaggen", "coloring": "Kleurplaat"},
     "hero": {
         "flag_alt": "Vlag van de Volksrepubliek China — de rode vijfsterrenvlag",
         "title": "De Rode Vijfsterrenvlag",
@@ -88,6 +88,47 @@ DATA = {
     "download": {
         "svg": "{name} downloaden als SVG",
         "png": "{name} downloaden als PNG",
+    },
+    "historical": {
+        "title": "Historische vlaggen van China",
+        "intro": "Vóór de rode vijfsterrenvlag wapperden er heel andere vaandels boven China. Deze gestileerde illustraties tonen de drie bekendste voorgangers.",
+        "items": {
+            "qing": {
+                "name": "Qing-drakenvlag",
+                "period": "1889–1912",
+                "text": "De laatste keizerlijke dynastie voerde een goudgele vlag met een azuurblauwe draak die een rode parel najaagt — geel was de kleur van de keizer.",
+                "alt": "Drakenvlag van de Qing-dynastie (1889–1912) — gestileerde illustratie",
+                "slug": "historische-chinese-vlag-qing-drakenvlag",
+            },
+            "fivecolor": {
+                "name": "Vijfkleurenvlag",
+                "period": "1912–1928",
+                "text": "De eerste vlag van de Republiek China: vijf banen voor de vijf grote volkeren van China — Han, Mantsjoes, Mongolen, Hui en Tibetanen.",
+                "alt": "Vijfkleurenvlag van de Republiek China (1912–1928)",
+                "slug": "historische-chinese-vlag-vijfkleurenvlag",
+            },
+            "bluesky": {
+                "name": "Blauwe lucht, witte zon, rode aarde",
+                "period": "1928–1949",
+                "text": "De nationale vlag van het republikeinse tijdperk op het vasteland tot 1949, met een witte zon met twaalf stralen in een blauw kanton.",
+                "alt": "Vlag uit het tijdperk van de Republiek China (1928–1949) met blauw kanton en witte zon",
+                "slug": "historische-chinese-vlag-blauwe-lucht-witte-zon",
+            },
+        },
+    },
+    "coloring": {
+        "title": "Kleurplaat",
+        "text": "Een printbare omtrek van de Chinese vlag om in te kleuren — ideaal voor school of een regenachtige middag. Tip: de grote ster en de vier kleine sterren kleur je goudgeel op een rood veld.",
+        "caption": "Chinese vlag als kleurplaat",
+        "alt": "Kleurplaat van de Chinese vlag — printbare omtrek van de rode vijfsterrenvlag",
+        "slug": "chinese-vlag-kleurplaat",
+    },
+    "emoji": {
+        "title": "Chinese vlag-emoji",
+        "text": "De emoji van de Chinese vlag 🇨🇳 bestaat uit de twee regionale indicatorsymbolen C (U+1F1E8) en N (U+1F1F3). Kopieer hem hier met één klik.",
+        "copy": "Emoji kopiëren",
+        "copied": "Gekopieerd!",
+        "note": "Op sommige Windows-systemen wordt de emoji weergegeven als de letters “CN” — op telefoons en de meeste andere apparaten verschijnt de vlag.",
     },
     "consent": {
         "text": "We willen met Google Analytics meten hoe deze site wordt gebruikt. Statistiekcookies worden alleen geplaatst als je akkoord gaat.",

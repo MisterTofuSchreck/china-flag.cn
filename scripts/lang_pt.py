@@ -5,7 +5,7 @@ DATA = {
         "description": "A bandeira chinesa explicada: significado das cinco estrelas, história, cores e proporções oficiais, e 33 ilustrações para descarregar grátis.",
     },
     "brand": "Bandeira Chinesa",
-    "nav": {"meaning": "Significado", "history": "História", "data": "Dados Técnicos", "gallery": "Galeria", "etiquette": "Etiqueta", "faq": "FAQ"},
+    "nav": {"meaning": "Significado", "history": "História", "data": "Dados Técnicos", "gallery": "Galeria", "etiquette": "Etiqueta", "faq": "FAQ", "historic": "Bandeiras históricas", "coloring": "Para colorir"},
     "hero": {
         "flag_alt": "Bandeira da República Popular da China — a bandeira vermelha de cinco estrelas",
         "title": "A Bandeira Vermelha de Cinco Estrelas",
@@ -88,6 +88,47 @@ DATA = {
     "download": {
         "svg": "Transferir «{name}» em SVG",
         "png": "Transferir «{name}» em PNG",
+    },
+    "historical": {
+        "title": "Bandeiras históricas da China",
+        "intro": "Antes da bandeira vermelha de cinco estrelas, a China hasteava estandartes muito diferentes. Estas ilustrações estilizadas mostram os três antecessores mais conhecidos.",
+        "items": {
+            "qing": {
+                "name": "Bandeira do dragão Qing",
+                "period": "1889–1912",
+                "text": "A última dinastia imperial usava uma bandeira amarelo-dourada com um dragão azul a perseguir uma pérola vermelha — o amarelo era a cor do imperador.",
+                "alt": "Bandeira do dragão da dinastia Qing (1889–1912) — ilustração estilizada",
+                "slug": "bandeira-historica-china-dragao-qing",
+            },
+            "fivecolor": {
+                "name": "Bandeira de cinco cores",
+                "period": "1912–1928",
+                "text": "A primeira bandeira da República da China: cinco faixas pelos cinco grandes povos da China — Han, Manchu, Mongol, Hui e Tibetano.",
+                "alt": "Bandeira de cinco cores da República da China (1912–1928)",
+                "slug": "bandeira-historica-china-cinco-cores",
+            },
+            "bluesky": {
+                "name": "Céu azul, sol branco, terra vermelha",
+                "period": "1928–1949",
+                "text": "A bandeira nacional da era republicana no continente até 1949, com um sol branco de doze raios num cantão azul.",
+                "alt": "Bandeira da era da República da China (1928–1949) com cantão azul e sol branco",
+                "slug": "bandeira-historica-china-ceu-azul-sol-branco",
+            },
+        },
+    },
+    "coloring": {
+        "title": "Página para colorir",
+        "text": "Um contorno imprimível da bandeira chinesa para colorir — ideal para a escola ou uma tarde de chuva. Dica: a estrela grande e as quatro pequenas pintam-se de amarelo dourado sobre fundo vermelho.",
+        "caption": "Bandeira chinesa para colorir",
+        "alt": "Página para colorir da bandeira chinesa — contorno imprimível da bandeira vermelha de cinco estrelas",
+        "slug": "bandeira-chinesa-para-colorir",
+    },
+    "emoji": {
+        "title": "Emoji da bandeira chinesa",
+        "text": "O emoji da bandeira da China 🇨🇳 é composto pelos dois símbolos indicadores regionais C (U+1F1E8) e N (U+1F1F3). Copie-o aqui com um clique.",
+        "copy": "Copiar emoji",
+        "copied": "Copiado!",
+        "note": "Em alguns sistemas Windows o emoji aparece como as letras «CN» — em telemóveis e na maioria dos outros dispositivos a bandeira é exibida.",
     },
     "consent": {
         "text": "Gostaríamos de medir a utilização deste site com o Google Analytics. Os cookies estatísticos só são definidos com o seu consentimento.",

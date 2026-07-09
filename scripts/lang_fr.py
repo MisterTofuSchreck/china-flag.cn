@@ -5,7 +5,7 @@ DATA = {
         "description": "Le drapeau chinois expliqué : signification des cinq étoiles, histoire, couleurs et proportions officielles — plus 33 illustrations à télécharger gratuitement.",
     },
     "brand": "Drapeau Chinois",
-    "nav": {"meaning": "Signification", "history": "Histoire", "data": "Données Techniques", "gallery": "Galerie", "etiquette": "Étiquette", "faq": "FAQ"},
+    "nav": {"meaning": "Signification", "history": "Histoire", "data": "Données Techniques", "gallery": "Galerie", "etiquette": "Étiquette", "faq": "FAQ", "historic": "Drapeaux historiques", "coloring": "Coloriage"},
     "hero": {
         "flag_alt": "Drapeau de la République populaire de Chine — le drapeau rouge aux cinq étoiles",
         "title": "Le Drapeau Rouge aux Cinq Étoiles",
@@ -88,6 +88,47 @@ DATA = {
     "download": {
         "svg": "Télécharger « {name} » en SVG",
         "png": "Télécharger « {name} » en PNG",
+    },
+    "historical": {
+        "title": "Drapeaux historiques de la Chine",
+        "intro": "Avant le drapeau rouge aux cinq étoiles, la Chine arborait des bannières très différentes. Ces illustrations stylisées montrent les trois prédécesseurs les plus connus.",
+        "items": {
+            "qing": {
+                "name": "Drapeau du dragon Qing",
+                "period": "1889–1912",
+                "text": "La dernière dynastie impériale arborait un drapeau jaune d'or orné d'un dragon azur poursuivant une perle rouge — le jaune était la couleur de l'empereur.",
+                "alt": "Drapeau du dragon de la dynastie Qing (1889–1912) — illustration stylisée",
+                "slug": "drapeau-historique-chine-dragon-qing",
+            },
+            "fivecolor": {
+                "name": "Drapeau aux cinq couleurs",
+                "period": "1912–1928",
+                "text": "Premier drapeau de la République de Chine : cinq bandes pour les cinq grands peuples de Chine — Han, Mandchous, Mongols, Hui et Tibétains.",
+                "alt": "Drapeau aux cinq couleurs de la République de Chine (1912–1928)",
+                "slug": "drapeau-historique-chine-cinq-couleurs",
+            },
+            "bluesky": {
+                "name": "Ciel bleu, soleil blanc, terre rouge",
+                "period": "1928–1949",
+                "text": "Le drapeau national de l'ère républicaine sur le continent jusqu'en 1949, avec un soleil blanc à douze rayons sur un canton bleu.",
+                "alt": "Drapeau de l'ère de la République de Chine (1928–1949) avec canton bleu et soleil blanc",
+                "slug": "drapeau-historique-chine-ciel-bleu-soleil-blanc",
+            },
+        },
+    },
+    "coloring": {
+        "title": "Coloriage",
+        "text": "Un contour imprimable du drapeau chinois à colorier — idéal pour l'école ou un après-midi pluvieux. Astuce : la grande étoile et les quatre petites étoiles se colorient en jaune doré sur fond rouge.",
+        "caption": "Drapeau chinois à colorier",
+        "alt": "Coloriage du drapeau chinois — contour imprimable du drapeau rouge aux cinq étoiles",
+        "slug": "drapeau-chinois-coloriage",
+    },
+    "emoji": {
+        "title": "Émoji du drapeau chinois",
+        "text": "L'émoji du drapeau chinois 🇨🇳 se compose des deux symboles indicateurs régionaux C (U+1F1E8) et N (U+1F1F3). Copiez-le ici d'un clic.",
+        "copy": "Copier l'émoji",
+        "copied": "Copié !",
+        "note": "Sur certains systèmes Windows, l'émoji s'affiche sous forme des lettres « CN » — sur les téléphones et la plupart des autres appareils, le drapeau apparaît.",
     },
     "consent": {
         "text": "Nous souhaitons mesurer l'utilisation de ce site avec Google Analytics. Les cookies statistiques ne sont déposés qu'avec votre accord.",

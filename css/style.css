@@ -10,10 +10,6 @@
   --radius: 14px;
   --shadow: 0 10px 30px -12px rgba(28, 26, 23, 0.18);
   --font-latin: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  --font-zh: 'Noto Sans SC', 'Inter', -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  --font-ja: 'Noto Sans JP', 'Inter', -apple-system, 'Hiragino Sans', 'Yu Gothic', sans-serif;
-  --font-ar: 'Noto Sans Arabic', 'Inter', Tahoma, sans-serif;
-  --font-hi: 'Noto Sans Devanagari', 'Inter', 'Nirmala UI', sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -28,10 +24,8 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-html[lang^="zh"] body { font-family: var(--font-zh); }
-html[lang="ja"] body { font-family: var(--font-ja); }
-html[lang="ar"] body { font-family: var(--font-ar); }
-html[lang="hi"] body { font-family: var(--font-hi); }
+/* Sprachspezifische Schriften setzt der Generator als Inline-Style pro Seite
+   (siehe font_head in scripts/build.py). */
 
 img { max-width: 100%; display: block; }
 
@@ -80,9 +74,10 @@ h1, h2, h3 { line-height: 1.2; margin: 0 0 .5em; }
 
 .site-nav {
   display: flex;
-  gap: 28px;
-  font-size: 0.94rem;
+  gap: 16px;
+  font-size: 0.88rem;
   font-weight: 500;
+  flex-wrap: wrap;
 }
 
 .site-nav a {
@@ -408,6 +403,59 @@ body[data-lang="zh"] .hero h1 { font-weight: 900; letter-spacing: 0.04em; }
   color: var(--ink-soft);
   margin: 0 0 18px;
 }
+
+/* Historische Flaggen */
+.historic-text {
+  padding: 0 18px 12px;
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+}
+
+/* Malvorlage */
+.coloring-item {
+  max-width: 640px;
+  margin: 0 auto;
+}
+.coloring-item img {
+  height: auto;
+  object-fit: contain;
+  background: #fff;
+  padding: 12px;
+}
+
+/* Emoji */
+.emoji-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  max-width: 420px;
+  margin: 0 auto 20px;
+  padding: 32px;
+}
+
+.emoji-char {
+  font-size: 96px;
+  line-height: 1;
+}
+
+.emoji-copy {
+  border-radius: 999px;
+  padding: 10px 24px;
+  font: inherit;
+  font-size: 0.92rem;
+  font-weight: 600;
+  cursor: pointer;
+  background: var(--red);
+  color: #fff;
+  border: 1px solid var(--red);
+}
+.emoji-copy:hover { background: var(--red-dark); }
 
 /* Consent banner */
 .consent-banner {

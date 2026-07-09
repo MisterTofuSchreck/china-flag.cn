@@ -5,7 +5,7 @@ DATA = {
         "description": "The Chinese flag explained: meaning of the five stars, history of the Five-Star Red Flag, official colors & proportions, display etiquette, and flag-themed illustrations.",
     },
     "brand": "China Flag",
-    "nav": {"meaning": "Meaning", "history": "History", "data": "Technical Data", "gallery": "Gallery", "etiquette": "Etiquette", "faq": "FAQ"},
+    "nav": {"meaning": "Meaning", "history": "History", "data": "Technical Data", "gallery": "Gallery", "etiquette": "Etiquette", "faq": "FAQ", "historic": "Historical Flags", "coloring": "Coloring Page"},
     "hero": {
         "flag_alt": "Flag of the People's Republic of China — the Five-Star Red Flag",
         "title": "The Five-Star Red Flag",
@@ -88,6 +88,47 @@ DATA = {
     "download": {
         "svg": "Download {name} as SVG",
         "png": "Download {name} as PNG",
+    },
+    "historical": {
+        "title": "Historical Flags of China",
+        "intro": "Before the Five-Star Red Flag, China flew very different banners. These stylized illustrations show the three best-known predecessors.",
+        "items": {
+            "qing": {
+                "name": "Qing Dragon Flag",
+                "period": "1889–1912",
+                "text": "The last imperial dynasty flew a golden-yellow flag with an azure dragon chasing a red pearl — yellow was the emperor's color.",
+                "alt": "Qing dynasty dragon flag of China (1889–1912) — stylized illustration",
+                "slug": "historical-chinese-flag-qing-dragon-flag",
+            },
+            "fivecolor": {
+                "name": "Five-Colored Flag",
+                "period": "1912–1928",
+                "text": "The first flag of the Republic of China: five stripes for the five great peoples of China — Han, Manchu, Mongol, Hui and Tibetan.",
+                "alt": "Five-colored flag of the Republic of China (1912–1928)",
+                "slug": "historical-chinese-flag-five-colored-flag",
+            },
+            "bluesky": {
+                "name": "Blue Sky, White Sun, Red Earth",
+                "period": "1928–1949",
+                "text": "The national flag of the Republic of China era on the mainland until 1949, with a white twelve-ray sun on a blue canton.",
+                "alt": "Flag of the Republic of China era (1928–1949) with blue canton and white sun",
+                "slug": "historical-chinese-flag-blue-sky-white-sun",
+            },
+        },
+    },
+    "coloring": {
+        "title": "Coloring Page",
+        "text": "A printable outline of the Chinese flag for coloring in — ideal for school, class projects or a rainy afternoon. Tip: the large star and the four small stars are colored golden yellow on a red field.",
+        "caption": "Chinese Flag Coloring Page",
+        "alt": "Chinese flag coloring page — printable outline of the Five-Star Red Flag",
+        "slug": "chinese-flag-coloring-page",
+    },
+    "emoji": {
+        "title": "Chinese Flag Emoji",
+        "text": "The China flag emoji 🇨🇳 consists of the two regional indicator symbols C (U+1F1E8) and N (U+1F1F3). Copy it here with one click.",
+        "copy": "Copy emoji",
+        "copied": "Copied!",
+        "note": "On some Windows systems the emoji is displayed as the letters “CN” — on phones and most other devices the flag appears.",
     },
     "consent": {
         "text": "We would like to use Google Analytics to measure how this site is used. Statistics cookies are only set if you agree.",

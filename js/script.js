@@ -31,6 +31,28 @@
   var yearEl = document.getElementById('year');
   if (yearEl) { yearEl.textContent = new Date().getFullYear(); }
 
+  var emojiCopy = document.getElementById('emojiCopy');
+  if (emojiCopy) {
+    var emojiOriginal = emojiCopy.textContent;
+    emojiCopy.addEventListener('click', function () {
+      function done() {
+        emojiCopy.textContent = emojiCopy.getAttribute('data-copied') || emojiOriginal;
+        setTimeout(function () { emojiCopy.textContent = emojiOriginal; }, 2000);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText('🇨🇳').then(done, done);
+      } else {
+        var ta = document.createElement('textarea');
+        ta.value = '🇨🇳';
+        document.body.appendChild(ta);
+        ta.select();
+        try { document.execCommand('copy'); } catch (e) {}
+        document.body.removeChild(ta);
+        done();
+      }
+    });
+  }
+
   var CONSENT_KEY = 'cf-consent';
   var banner = document.getElementById('consentBanner');
   var acceptBtn = document.getElementById('consentAccept');
@@ -80,11 +102,12 @@
           var svgUrl = URL.createObjectURL(new Blob([svgText], { type: 'image/svg+xml;charset=utf-8' }));
           var img = new Image();
           img.onload = function () {
-            var size = 1000;
+            var w = parseInt(btn.getAttribute('data-w') || '1000', 10);
+            var h = parseInt(btn.getAttribute('data-h') || '1000', 10);
             var canvas = document.createElement('canvas');
-            canvas.width = size;
-            canvas.height = size;
-            canvas.getContext('2d').drawImage(img, 0, 0, size, size);
+            canvas.width = w;
+            canvas.height = h;
+            canvas.getContext('2d').drawImage(img, 0, 0, w, h);
             URL.revokeObjectURL(svgUrl);
             canvas.toBlob(function (blob) {
               var blobUrl = URL.createObjectURL(blob);

@@ -272,6 +272,33 @@ def faq_section(lang):
   </section>"""
 
 
+def org_jsonld():
+    """Organization schema with logo — enables the site logo in search results."""
+    data = {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "China-Flag.cn",
+        "url": f"{SITE_URL}/",
+        "logo": f"{SITE_URL}/android-chrome-512x512.png",
+    }
+    return json.dumps(data, ensure_ascii=False)
+
+
+def breadcrumb_jsonld(lang):
+    """BreadcrumbList: site home -> current language page (native name)."""
+    data = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "China Flag",
+             "item": f"{SITE_URL}/"},
+            {"@type": "ListItem", "position": 2, "name": LANG_META[lang]["native"],
+             "item": f"{SITE_URL}/{lang}/"},
+        ],
+    }
+    return json.dumps(data, ensure_ascii=False)
+
+
 def faq_jsonld(lang):
     c = CONTENT[lang]["faq"]
     data = {
@@ -420,6 +447,12 @@ def render_page(lang):
 </script>
 <script type="application/ld+json">
 {images_jsonld(lang)}
+</script>
+<script type="application/ld+json">
+{org_jsonld()}
+</script>
+<script type="application/ld+json">
+{breadcrumb_jsonld(lang)}
 </script>
 </head>
 <body>

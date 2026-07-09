@@ -129,20 +129,27 @@ def data_section(lang):
   </section>"""
 
 
-def font_head(lang):
-    """Per-language font loading: Inter always, plus the language's script
-    font from LANG_META['gfont'] if set. Chinese/Japanese also need the
-    900 weight for the hero headline."""
+def font_link(lang):
+    """Google-Fonts stylesheet link for the page: Inter always, plus the
+    language's script font from LANG_META['gfont'] if set. Chinese/Japanese
+    also need the 900 weight for the hero headline. Emitted BEFORE style.css."""
     meta = LANG_META[lang]
     fams = ["Inter:wght@400;500;600;700;800"]
     gfont = meta.get("gfont")
-    body_style = ""
     if gfont:
         weights = "400;500;700;900" if lang in ("zh", "ja") else "400;500;700"
         fams.append(gfont.replace(" ", "+") + f":wght@{weights}")
-        body_style = f"\n<style>body{{font-family:'{gfont}','Inter',sans-serif;}}</style>"
     url = "https://fonts.googleapis.com/css2?" + "&".join("family=" + f for f in fams) + "&display=swap"
-    return f'<link href="{url}" rel="stylesheet">' + body_style
+    return f'<link href="{url}" rel="stylesheet">'
+
+
+def font_body_style(lang):
+    """Inline override that applies the script font to <body>. Must be emitted
+    AFTER style.css so it wins over the generic `body{font-family:...}` rule."""
+    gfont = LANG_META[lang].get("gfont")
+    if not gfont:
+        return ""
+    return f"<style>body{{font-family:'{gfont}','Inter',sans-serif;}}</style>"
 
 
 def download_row(lang, slug, name, png_w=None, png_h=None):
@@ -380,8 +387,9 @@ def render_page(lang):
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-{font_head(lang)}
+{font_link(lang)}
 <link rel="stylesheet" href="/css/style.css">
+{font_body_style(lang)}
 
 <script type="application/ld+json">
 {{

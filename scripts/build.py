@@ -576,6 +576,47 @@ def build_root_redirect():
     print("wrote root index.html redirect")
 
 
+def build_404():
+    """Custom 404 page. GitHub Pages serves /404.html for any unknown URL,
+    so all asset paths must be absolute. noindex keeps it out of search."""
+    lang_links = "\n        ".join(
+        f'<a href="/{code}/" lang="{LANG_META[code]["html_lang"]}">{LANG_META[code]["native"]}</a>'
+        for code in LANGS
+    )
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>404 — Page not found | China-Flag.cn</title>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/assets/flag.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<main class="section" style="min-height:70vh; display:flex; align-items:center;">
+  <div class="container" style="text-align:center; max-width:720px;">
+    <img src="/assets/flag.svg" width="150" height="100" alt="Flag of the People's Republic of China"
+         style="margin:0 auto 28px; border-radius:8px; box-shadow:var(--shadow);">
+    <h1 style="font-size:clamp(3rem,8vw,5rem); margin-bottom:8px;">404</h1>
+    <p style="font-size:1.1rem; color:var(--ink-soft); margin:0 0 6px;">
+      This page does not exist — but the Chinese flag does, in 30 languages:
+    </p>
+    <p class="fine-print" style="margin:0 0 28px;">Diese Seite existiert nicht · 页面不存在 · Cette page n'existe pas</p>
+    <nav style="display:flex; flex-wrap:wrap; gap:10px 18px; justify-content:center; font-size:0.95rem;">
+        {lang_links}
+    </nav>
+  </div>
+</main>
+</body>
+</html>
+"""
+    with open(os.path.join(BASE, "404.html"), "w", encoding="utf-8") as f:
+        f.write(html)
+    print("wrote 404.html")
+
+
 def build_sitemap():
     urls = []
     for lang in LANGS:
@@ -646,5 +687,6 @@ if __name__ == "__main__":
     build_pages()
     build_images()
     build_root_redirect()
+    build_404()
     build_sitemap()
     print("done")

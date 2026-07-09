@@ -1,0 +1,13 @@
+{
+  "name": "China Flag",
+  "short_name": "China Flag",
+  "description": "The Chinese flag explained: meaning, history, colors and flag-themed illustrations.",
+  "start_url": "/en/",
+  "display": "standalone",
+  "background_color": "#FDFBF6",
+  "theme_color": "#DE2910",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

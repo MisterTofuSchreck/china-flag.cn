@@ -178,7 +178,7 @@ def gallery_section(lang):
             slug = item["slug"]
             figures += f"""
         <figure class="gallery-item">
-          <img src="/assets/{lang}/{slug}.svg" width="400" height="400" alt="{esc(item['text'])}" loading="lazy">
+          <img src="/assets/{lang}/{slug}.svg" width="400" height="400" alt="{esc(item['text'])}" loading="lazy" decoding="async">
           <figcaption>{esc(item['text'])}</figcaption>
           {download_row(lang, slug, item['text'])}
         </figure>"""
@@ -206,7 +206,7 @@ def historic_section(lang):
         slug = it["slug"]
         figures += f"""
         <figure class="gallery-item">
-          <img src="/assets/{lang}/{slug}.svg" width="400" height="400" alt="{esc(it['alt'])}" loading="lazy">
+          <img src="/assets/{lang}/{slug}.svg" width="400" height="400" alt="{esc(it['alt'])}" loading="lazy" decoding="async">
           <figcaption>{esc(it['name'])} · {esc(it['period'])}</figcaption>
           <p class="historic-text">{esc(it['text'])}</p>
           {download_row(lang, slug, it['name'])}
@@ -231,7 +231,7 @@ def coloring_section(lang):
       <h2 class="section-title">{esc(c['title'])}</h2>
       <p class="section-intro">{esc(c['text'])}</p>
       <figure class="gallery-item coloring-item">
-        <img src="/assets/{lang}/{slug}.svg" width="900" height="600" alt="{esc(c['alt'])}" loading="lazy">
+        <img src="/assets/{lang}/{slug}.svg" width="900" height="600" alt="{esc(c['alt'])}" loading="lazy" decoding="async">
         <figcaption>{esc(c['caption'])}</figcaption>
         {download_row(lang, slug, c['caption'], png_w=1200, png_h=800)}
       </figure>
@@ -484,7 +484,7 @@ def render_page(lang):
   <section class="hero">
     <div class="container hero-inner">
       <div class="hero-flag">
-        <img src="/assets/flag.svg" width="300" height="200" alt="{esc(hero['flag_alt'])}">
+        <img src="/assets/flag.svg" width="300" height="200" fetchpriority="high" alt="{esc(hero['flag_alt'])}">
       </div>
       <h1>{esc(hero['title'])}</h1>
       <p class="hero-sub">{esc(hero['subtitle'])}</p>

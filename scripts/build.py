@@ -140,7 +140,12 @@ def font_link(lang):
         weights = "400;500;700;900" if lang in ("zh", "ja") else "400;500;700"
         fams.append(gfont.replace(" ", "+") + f":wght@{weights}")
     url = "https://fonts.googleapis.com/css2?" + "&".join("family=" + f for f in fams) + "&display=swap"
-    return f'<link href="{url}" rel="stylesheet">'
+    # Non-render-blocking: the media="print" link downloads without blocking
+    # first paint and switches itself to media="all" onload; text shows in the
+    # fallback font first (display=swap) and swaps when the webfont arrives.
+    return (f'<link rel="preload" as="style" href="{url}">\n'
+            f'<link href="{url}" rel="stylesheet" media="print" onload="this.media=\'all\'">\n'
+            f'<noscript><link href="{url}" rel="stylesheet"></noscript>')
 
 
 def font_body_style(lang):
@@ -150,6 +155,23 @@ def font_body_style(lang):
     if not gfont:
         return ""
     return f"<style>body{{font-family:'{gfont}','Inter',sans-serif;}}</style>"
+
+
+_CSS_CACHE = None
+
+
+def inline_css():
+    """style.css inlined into <head> so first paint needs no CSS request.
+    Comment/blank-line stripping only — no aggressive minification, so
+    quoted strings and data URIs in the CSS stay untouched."""
+    global _CSS_CACHE
+    if _CSS_CACHE is None:
+        with open(os.path.join(BASE, "css", "style.css"), encoding="utf-8") as f:
+            css = f.read()
+        css = re.sub(r"/\*.*?\*/", "", css, flags=re.S)
+        css = "\n".join(line.rstrip() for line in css.splitlines() if line.strip())
+        _CSS_CACHE = f"<style>\n{css}\n</style>"
+    return _CSS_CACHE
 
 
 def download_row(lang, slug, name, png_w=None, png_h=None):
@@ -417,10 +439,11 @@ def render_page(lang):
 <meta name="twitter:description" content="{esc(c['meta']['description'])}">
 <meta name="twitter:image" content="{SITE_URL}/assets/og-image.png">
 
+<link rel="preload" as="image" href="/assets/flag.svg" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 {font_link(lang)}
-<link rel="stylesheet" href="/css/style.css">
+{inline_css()}
 {font_body_style(lang)}
 
 <script type="application/ld+json">
@@ -526,7 +549,7 @@ def render_page(lang):
   </div>
 </div>
 
-<script src="/js/script.js"></script>
+<script src="/js/script.js" defer></script>
 </body>
 </html>
 """
@@ -625,7 +648,7 @@ def build_404():
 <title>404 — Page not found | China-Flag.cn</title>
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/assets/flag.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/css/style.css">
+{inline_css()}
 </head>
 <body>
 <main class="section" style="min-height:70vh; display:flex; align-items:center;">
